@@ -26,7 +26,7 @@ header {
   transition: 0.5s;
 }
 .navigation_link:hover {
-  color: #02567b;
+  color: #494f51;
 }
 .wrapper_link {
   display: flex;
@@ -82,7 +82,7 @@ header {
   }
   .mobile-nav {
     position: absolute;
-    top: 7vh;
+    top: 5vh;
     left: 0;
     width: 100%;
     background-color: #3fb4e6;
