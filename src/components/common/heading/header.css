@@ -12,7 +12,7 @@
 /*--------head------------*/
 /*--------header------------*/
 header {
-  background-color: rgba(167, 166, 158, 0.578);
+  background-color: rgba(249, 204, 68, 0.851);
   margin: 0 30px;
 }
 .header_nav {
@@ -26,7 +26,7 @@ header {
   transition: 0.5s;
 }
 .navigation_link:hover {
-  color: #494f51;
+  color: #3fb4e6;
 }
 .wrapper_link {
   display: flex;
@@ -38,6 +38,10 @@ header {
   padding: 30px 70px;
   color: #fff;
   clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
+}
+.button_zno {
+  color: #fff;
+  font-weight: 600;
 }
 .toggle {
   display: none;

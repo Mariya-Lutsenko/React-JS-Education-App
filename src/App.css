@@ -6,8 +6,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  /* background-color: #f8f8f8; */
-  background-color: #858484;
+  background-color: #f8f8f8;
 }
 
 /*------------global-----------*/
@@ -46,8 +45,9 @@ li {
 button {
   padding: 17px 30px;
   background-color: #fff;
-  color: #f4d009;
+  color: #3fb4e6;
   font-weight: 600;
+  font-size: 16px;
   border: none;
   margin: 30px 10px 0 0;
   border-radius: 3px;
