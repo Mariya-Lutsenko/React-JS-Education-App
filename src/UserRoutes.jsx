@@ -1,13 +1,13 @@
-// import { Route, Routes } from 'react-router-dom';
-// import HomePage from 'pages/HomePage/HomePage';
+import { Route, Routes } from 'react-router-dom';
+import Home from './components/home/Home';
 
 
 const UserRoutes = () => {
   return (
-    // <Routes>
-      {/* <Route path="/" element={<HomePage />} />
-      <Route path="*" element={<HomePage />} /> */}
-    // </Routes>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="*" element={<Home />} />
+    </Routes>
   );
 };
 export default UserRoutes;

@@ -25,13 +25,13 @@ body {
   line-height: 40px;
   border-radius: 50%;
   text-align: center;
-  background-color: rgba(255, 255, 255, 0.3);
-  color: #fca103;
+  background-color: rgba(246, 240, 240, 0.732);
+  color: #3fb4e6;
   transition: 0.5s;
 }
 .icon:hover {
   cursor: pointer;
-  background-color: #fca103;
+  background-color: #3fb4e6;
   color: #fff;
 }
 a {
@@ -46,7 +46,7 @@ li {
 button {
   padding: 17px 30px;
   background-color: #fff;
-  color: #fca103;
+  color: #f4d009;
   font-weight: 600;
   border: none;
   margin: 30px 10px 0 0;
@@ -62,7 +62,7 @@ button:hover {
   box-shadow: none;
 }
 .primary-btn {
-  background-color: #1eb2a6;
+  background-color: #3fb4e6;
   color: #fff;
 }
 
