@@ -18,6 +18,7 @@ const Hero = () => {
                 </button>
               </div>
             </div>
+            <div className="shape"></div>
           </div>
         </section>
         <div className='margin'></div>
