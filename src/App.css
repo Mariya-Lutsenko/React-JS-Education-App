@@ -41,6 +41,7 @@ li {
 }
 .row {
   width: 50%;
+  margin-left: auto;
 }
 button {
   padding: 17px 30px;
@@ -50,7 +51,7 @@ button {
   font-size: 16px;
   border: none;
   margin: 30px 10px 0 0;
-  border-radius: 3px;
+  border-radius: 5px;
   cursor: pointer;
   box-shadow: 0 24px 36px -11px rgb(0 0 0 / 9%);
   transition: 0.5s;
@@ -80,7 +81,6 @@ button:hover {
 #heading h1 {
   font-size: 45px;
   margin: 20px 0;
-  text-transform: capitalize;
 }
 p {
   line-height: 30px;

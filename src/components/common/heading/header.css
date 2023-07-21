@@ -5,6 +5,11 @@
 .logo h1 {
   font-size: 35px;
   font-weight: 900;
+  text-shadow: 3px 4px 5px rgba(128, 119, 119, 0.58);
+}
+.logo span {
+  font-weight: bold;
+  text-shadow: 3px 4px 5px rgba(128, 119, 119, 0.58);
 }
 .head .icon {
   margin-left: 10px;
@@ -14,6 +19,7 @@
 header {
   background-color: rgba(249, 204, 68, 0.586);
   margin: 0 30px;
+  position: relative;
 }
 .header_nav {
   display: flex;

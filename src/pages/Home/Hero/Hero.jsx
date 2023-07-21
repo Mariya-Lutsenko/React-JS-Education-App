@@ -1,5 +1,6 @@
 import React from "react"
 import "./hero.css";
+import Title from "../../../components/common/Title/Title";
 
 const Hero = () => {
     return (
@@ -7,8 +8,7 @@ const Hero = () => {
         <section className='hero'>
           <div className='container'>
             <div className='row'>
-
-   
+              <Title title='Платформа для організації навчання'/>
               <div className='button'>
                 <button className='primary-btn'>
                   Розклад уроків <i className='fa fa-long-arrow-alt-right'></i>
