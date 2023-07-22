@@ -6,7 +6,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #f8f8f8;
+  background-color: #cb1212;
 }
 
 /*------------global-----------*/
@@ -113,12 +113,13 @@ p {
   text-transform: uppercase;
 }
 .margin {
-  margin-top: 60.3%;
+  margin-top: 40.3%;
 }
 
 @media screen and (max-width: 768px) {
   .back {
     padding-top: 50%;
+    height: 80vh;
   }
   .back h1 {
     font-size: 70px;

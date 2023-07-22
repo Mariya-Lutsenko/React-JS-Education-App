@@ -99,7 +99,7 @@ header {
     display: flex;
     flex-direction: column;
     padding-left: 70px;
-    margin-top: 20px;
+    margin-top: 30px;
   }
   .navigation_link {
     margin-bottom: 20px;

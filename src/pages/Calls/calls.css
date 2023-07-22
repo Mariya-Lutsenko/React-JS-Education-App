@@ -39,3 +39,15 @@
   cursor: pointer;
   box-shadow: 0 5px 25px -2px rgb(0 0 0 /6%);
 }
+
+@media screen and (max-width: 768px) {
+  .callsHome {
+    /* margin-top: 10%; */
+  }
+  .callsHome .container {
+    flex-direction: column-reverse;
+  }
+  .callsHome .row {
+    width: 100%;
+  }
+}
