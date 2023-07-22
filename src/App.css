@@ -6,7 +6,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #cb1212;
+  background-color: #fff;
 }
 
 /*------------global-----------*/
@@ -99,7 +99,7 @@ p {
   z-index: -1;
   width: 100%;
   height: 100vh;
-  padding-top: 30%;
+  padding-top: 20%;
   color: #fff;
   text-align: center;
 }
