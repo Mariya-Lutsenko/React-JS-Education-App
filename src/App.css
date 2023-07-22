@@ -116,7 +116,7 @@ p {
   margin-top: 40.3%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .back {
     padding-top: 50%;
     height: 80vh;

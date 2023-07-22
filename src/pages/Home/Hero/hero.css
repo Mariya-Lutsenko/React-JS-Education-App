@@ -45,7 +45,7 @@
     transform: translateX(100%);
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .clouds img {
     /* width: 100%; */
     height: auto;
