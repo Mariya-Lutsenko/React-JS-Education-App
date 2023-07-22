@@ -39,4 +39,12 @@ tr:nth-child(even) {
   .tableCalls {
     width: 90%;
   }
+
+  th {
+    font-size: 14px;
+  }
+
+  tr {
+    font-size: 14px;
+  }
 }

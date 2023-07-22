@@ -9,7 +9,7 @@ const TableCalls = () => {
     const classData = typesEducation.find((classItem) => classItem.id === Number(id));
     if (!classData) {
        
-        return <div>Клас не знайдено</div>;
+        return <div></div>;
       }
 
   return (
