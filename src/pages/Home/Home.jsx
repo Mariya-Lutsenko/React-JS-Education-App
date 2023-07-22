@@ -1,5 +1,6 @@
 import React from 'react' 
 import Hero from "./Hero/Hero"
+import CallsCard from '../Calls/CallsCard'
 
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
     <>
     
      <Hero/>
+     <CallsCard/>
     </>
   )
 }

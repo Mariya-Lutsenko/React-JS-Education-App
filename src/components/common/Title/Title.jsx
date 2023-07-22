@@ -1,12 +1,12 @@
 import React from 'react'
 import "./title.css"
 
-const Title = ({title }) => {
+const Title = ({title, subtitle }) => {
   return (
     <div>
       <div id="heading">
-       
-        <h1 className='hero_title'>{title}</h1>
+       <h3>{subtitle}</h3>
+        <h1 className='title'>{title}</h1>
       </div>
     </div>
   )

@@ -75,22 +75,24 @@ button:hover {
 #heading h3 {
   font-weight: 600;
   letter-spacing: 1px;
-  color: #1eb2a6;
+  color: #3fb4e6;
   text-transform: uppercase;
 }
 #heading h1 {
   font-size: 45px;
   margin: 20px 0;
 }
+
 p {
   line-height: 30px;
   font-size: 18px;
 }
 
 .back {
-  background-image: url("../public/images/bg-home-3.jpg");
+  background-image: url("../public/images/bg-back.jpg");
   background-size: cover;
   background-attachment: fixed;
+  background-position: 25% 85%;
   position: absolute;
   top: 0;
   left: 0;
@@ -98,6 +100,28 @@ p {
   width: 100%;
   height: 100vh;
   padding-top: 30%;
-  padding-left: 50px;
   color: #fff;
+  text-align: center;
+}
+.back h1 {
+  font-size: 100px;
+  font-weight: 400;
+}
+.back h2 {
+  font-size: 17px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.margin {
+  margin-top: 60.3%;
+}
+
+@media screen and (max-width: 768px) {
+  .back {
+    padding-top: 50%;
+  }
+  .back h1 {
+    font-size: 70px;
+    font-weight: 400;
+  }
 }
