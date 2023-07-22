@@ -15,7 +15,7 @@ const CallsCard = () => {
             <Title title="Розклад початку та закінчення уроків" />
             <div className="items">
               {typesEducation.map((typeEd) => (
-                <div className="item flexSB">
+                <div className="item itemflex">
                   <div className="img">
                     <img src={typeEd.cover} alt=""  />
                   </div>

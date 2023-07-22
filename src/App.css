@@ -106,6 +106,7 @@ p {
 .back h1 {
   font-size: 100px;
   font-weight: 400;
+  text-shadow: 3px 4px 5px rgba(128, 119, 119, 0.58);
 }
 .back h2 {
   font-size: 17px;
@@ -124,6 +125,5 @@ p {
   .back h1 {
     font-size: 50px;
     font-weight: 400;
-    text-shadow: 3px 4px 5px rgba(128, 119, 119, 0.58);
   }
 }
