@@ -42,7 +42,7 @@
 
 @media screen and (max-width: 900px) {
   .callsHome {
-    /* margin-top: 10%; */
+    margin-top: 10%;
   }
   .callsHome .container {
     flex-direction: column-reverse;
