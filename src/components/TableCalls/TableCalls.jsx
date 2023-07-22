@@ -7,9 +7,13 @@ import { typesEducation } from '../../data/typesEducation';
 const TableCalls = () => {
     const { id } = useParams();
     const classData = typesEducation.find((classItem) => classItem.id === Number(id));
+    if (!classData) {
+       
+        return <div>Клас не знайдено</div>;
+      }
 
   return (
-    <table className="transactionhistory">
+    <table className="tableCalls">
       <thead>
         <tr>
           <th>Номер уроку</th>

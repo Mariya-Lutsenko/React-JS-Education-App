@@ -1,6 +1,7 @@
-.transactionhistory {
+.tableCalls {
   background-color: #fdfefe;
-  width: 800px;
+
+  width: 60%;
   margin: 0px auto;
   margin-bottom: 50px;
   padding: 10px;
@@ -18,18 +19,24 @@ td {
 }
 
 th {
-  background-color: #43c6db;
+  background-color: #3fb4e6;
   color: #fff;
-  font-size: 16px;
+  font-size: 20px;
   text-transform: uppercase;
 }
 
 tr {
-  font-size: 16px;
+  font-size: 20px;
   background-color: #fdfefe;
   color: #646565;
 }
 
 tr:nth-child(even) {
-  background-color: #e1f3f6;
+  background-color: #f0f2a9;
+}
+
+@media screen and (max-width: 768px) {
+  .tableCalls {
+    width: 90%;
+  }
 }

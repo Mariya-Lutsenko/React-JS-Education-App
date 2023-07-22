@@ -44,10 +44,10 @@
 .itemflex {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 768px) {
   .callsHome {
     margin-top: 10%;
   }
@@ -56,5 +56,8 @@
   }
   .callsHome .row {
     width: 100%;
+  }
+  .left.row img {
+    display: none;
   }
 }
