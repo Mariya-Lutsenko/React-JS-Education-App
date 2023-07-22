@@ -1,6 +1,7 @@
 import React from "react"
 import "./hero.css";
 import Title from "../../../components/common/Title/Title";
+import Clouds from "../../../components/common/Clouds/Clouds";
 
 const Hero = () => {
     return (
@@ -18,14 +19,7 @@ const Hero = () => {
                 </button>
               </div>
             </div>
-            <div className="clouds">
-              <img src="/images/clouds_animate/cloud1.png" alt="" style={{"--i":1}}/>
-              <img src="/images/clouds_animate/cloud2.png" alt="" style={{"--i":2}} />
-              <img src="/images/clouds_animate/cloud3.png"alt="" style={{"--i":3}} />
-              <img src="/images/clouds_animate/cloud4.png" alt="" style={{"--i":4}}/>
-              <img src="/images/clouds_animate/cloud5.png" alt="" style={{"--i":5}}/>
-
-            </div>
+        <Clouds/>
           </div>
         </section>
         <div className='margin'></div>
