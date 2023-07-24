@@ -19,7 +19,7 @@ const Navigation = () => {
           <Link className="navigation_link" to="/calls">
             Розклад дзвоників
           </Link>
-          <Link className="navigation_link" to="/lessons">
+          <Link className="navigation_link" to="/schedule">
             Розклад уроків
           </Link>
           <Link className="navigation_link" to="/courses">
