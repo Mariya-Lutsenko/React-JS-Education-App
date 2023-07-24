@@ -1,3 +1,8 @@
+.tableCourses_title {
+  color: #04b0fa;
+  text-align: center;
+}
+
 .tableCourses {
   table-layout: auto;
   background-color: #fdfefe;
@@ -37,13 +42,18 @@
   .tableCourses {
     width: 100%;
     margin: 20px auto;
+    padding: 10px 2px;
   }
 
   .tableCourses_head {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .tableCourses_tr {
     font-size: 12px;
+  }
+  .tableCourses_title {
+    color: #04b0fa;
+    text-align: center;
   }
 }

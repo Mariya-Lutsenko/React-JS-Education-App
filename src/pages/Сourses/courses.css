@@ -19,12 +19,19 @@
 
 @media screen and (max-width: 768px) {
   .courses {
-    margin-top: 15%;
+    margin-top: 30%;
   }
   .courses_left {
     padding: 0px;
   }
   .courses_right {
     padding: 0px;
+  }
+  .courses .grid2 {
+    display: block;
+    margin-bottom: 15px;
+  }
+  .courses img {
+    padding-bottom: 15px;
   }
 }

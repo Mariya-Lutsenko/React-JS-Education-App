@@ -5,7 +5,7 @@ const TableCourses = ({data, selectedClass}) => {
     const filteredData = data.find((item) => item.class === selectedClass);
 
   if (!filteredData) {
-    return <div>Ви не обрали клас для выдображення даних</div>;
+    return <div ><p className='tableCourses_title'>Ви не обрали клас для відображення даних</p></div>;
   }
 
   return (
