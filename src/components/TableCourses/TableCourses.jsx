@@ -4,7 +4,7 @@ const TableCourses = ({data, selectedClass}) => {
     const filteredData = data.find((item) => item.class === selectedClass);
 
   if (!filteredData) {
-    return <div>Дані для вибраного класу не знайдено.</div>;
+    return <div>Ви не обрали клас для выдображення даних</div>;
   }
 
   return (

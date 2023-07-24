@@ -1,50 +1,49 @@
 .tableCalls {
+  table-layout: auto;
   background-color: #fdfefe;
-
   width: 60%;
-  margin: 0px auto;
+  margin: 20px auto;
   margin-bottom: 50px;
   padding: 10px;
   border-radius: 10px;
   box-shadow: -1px 1px 34px 4px rgba(171, 178, 185, 1);
 }
 
-th,
-td {
+.tableCalls_head,
+.tableCalls_td {
   height: 40px;
   text-align: center;
-}
-.tdtype {
-  text-transform: capitalize;
+  white-space: normal;
 }
 
-th {
+.tableCalls_head {
   background-color: #3fb4e6;
   color: #fff;
   font-size: 20px;
   text-transform: uppercase;
 }
 
-tr {
+.tableCalls_tr {
   font-size: 20px;
   background-color: #fdfefe;
   color: #646565;
 }
 
-tr:nth-child(even) {
+.tableCalls_tr:nth-child(even) {
   background-color: #f0f2a9;
 }
 
 @media screen and (max-width: 768px) {
   .tableCalls {
     width: 90%;
+    margin: 0px auto;
   }
 
-  th {
+  .tableCalls_head {
     font-size: 14px;
   }
 
-  tr {
+  .tableCalls_tr {
     font-size: 14px;
   }
 }

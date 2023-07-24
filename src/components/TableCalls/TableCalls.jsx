@@ -16,18 +16,18 @@ const TableCalls = () => {
     <table className="tableCalls">
       <thead>
         <tr>
-          <th>Номер уроку</th>
-          <th>Початок</th>
-          <th>Закінчення</th>
+          <th className='tableCalls_head'>Номер уроку</th>
+          <th className='tableCalls_head'>Початок</th>
+          <th className='tableCalls_head'>Закінчення</th>
         </tr>
       </thead>
 
       <tbody>
         {classData.lessonDuration.map((item) => (
-          <tr key={item.lessonNumber}>
-            <td className="tdtype">{item.lessonNumber}</td>
-            <td>{item.startTime}</td>
-            <td>{item.endTime}</td>
+          <tr className='tableCalls_tr' key={item.lessonNumber}>
+            <td className='tableCalls_td'>{item.lessonNumber}</td>
+            <td className='tableCalls_td'>{item.startTime}</td>
+            <td className='tableCalls_td'>{item.endTime}</td>
           </tr>
         ))}
       </tbody>

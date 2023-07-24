@@ -1,0 +1,18 @@
+.coursesFlex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.courses_left {
+  padding: 10px;
+}
+.courses_left img {
+  width: 100%;
+  height: auto;
+}
+.courses_right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
