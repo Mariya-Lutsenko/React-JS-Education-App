@@ -16,3 +16,15 @@
   justify-content: center;
   padding: 30px;
 }
+
+@media screen and (max-width: 768px) {
+  .courses {
+    margin-top: 15%;
+  }
+  .courses_left {
+    padding: 0px;
+  }
+  .courses_right {
+    padding: 0px;
+  }
+}

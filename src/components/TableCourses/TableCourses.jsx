@@ -1,4 +1,5 @@
 import React from 'react'
+import "./tableCourses.css"
 
 const TableCourses = ({data, selectedClass}) => {
     const filteredData = data.find((item) => item.class === selectedClass);
@@ -8,22 +9,22 @@ const TableCourses = ({data, selectedClass}) => {
   }
 
   return (
-    <table>
+    <table className="tableCourses">
     <thead>
       <tr>
-        <th>Назва предмету</th>
-        <th>Код предмету</th>
-        <th>Вчитель</th>
-        <th>Email</th>
+        <th className='tableCourses_head'>Назва предмету</th>
+        <th className='tableCourses_head'>Код предмету</th>
+        <th className='tableCourses_head'>Вчитель</th>
+        <th className='tableCourses_head'>Email</th>
       </tr>
     </thead>
     <tbody>
       {filteredData.subjects.map((subject) => (
-        <tr key={subject.code}>
-          <td>{subject.name}</td>
-          <td>{subject.code}</td>
-          <td>{subject.teacher}</td>
-          <td>{subject.email}</td>
+        <tr className='tableCourses_tr' key={subject.code}>
+          <td className='tableCourses_td'>{subject.name}</td>
+          <td className='tableCourses_td'>{subject.code}</td>
+          <td className='tableCourses_td'>{subject.teacher}</td>
+          <td className='tableCourses_td'>{subject.email}</td>
         </tr>
       ))}
     </tbody>
