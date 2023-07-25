@@ -1,7 +1,7 @@
 import React from 'react'
 import "./tableCourses.css"
 
-const TableCourses = ({data, selectedClass}) => {
+const TableCourses = ({data, selectedClass, tableRef}) => {
     const filteredData = data.find((item) => item.class === selectedClass);
 
   if (!filteredData) {
@@ -9,7 +9,7 @@ const TableCourses = ({data, selectedClass}) => {
   }
 
   return (
-    <table className="tableCourses">
+    <table className="tableCourses" ref={tableRef}>
     <thead>
       <tr>
         <th className='tableCourses_head'>Назва предмету</th>

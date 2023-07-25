@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Dropdown from "../../components/common/Dropdown/Dropdown";
 import TableCourses from "../../components/TableCourses/TableCourses";
 import { classesCourses } from "../../data/classesCourses";
@@ -7,6 +7,7 @@ import "./courses.css";
 
 const Courses = () => {
   const [selectedClass, setSelectedClass] = useState("");
+  const tableRef = useRef(null);
 
   const handleDropdownChange = (selectedValue) => {
     setSelectedClass(selectedValue);
@@ -16,6 +17,12 @@ const Courses = () => {
     value: classItem.class,
     label: classItem.class,
   }));
+
+  useEffect(() => {
+    if (tableRef.current && selectedClass) {
+      tableRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [selectedClass]);
 
   return (
     <>
@@ -30,7 +37,7 @@ const Courses = () => {
             <Dropdown options={options} title="Оберіть клас"onChange={handleDropdownChange} />
           </div>
           </div>
-          <TableCourses selectedClass={selectedClass} data={classesCourses} />
+          <TableCourses tableRef={tableRef} selectedClass={selectedClass} data={classesCourses} />
         </div>
 
       </section>
