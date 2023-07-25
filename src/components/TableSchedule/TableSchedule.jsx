@@ -20,31 +20,31 @@ const TableSchedule = ({ scheduleData, selectedClass, selectedDay  }) => {
     }
   
     const lessons = [...new Array(maxLessonCount)].map((_, index) => index + 1);
-
+    const buttonText = showAll ? 'Показати розклад на один день тижня' : 'Показати розклад на весь тиждень';
     
 
     return (
-      <div>
-      <button onClick={() => setShowAll(!showAll)}>Показать все</button>
-      <table>
-        <thead>
-          <tr>
-            <th colSpan={showAll ? weekdays.length + 1 : 2}>{selectedClass}</th>
+      <div className='tableschedule-container'>
+      <button className="primary-btn schedule" onClick={() => setShowAll(!showAll)}>{buttonText}<i class="fa fa-fw fa-calendar"></i></button>
+      <table className='tableSchedule'>
+        <thead className='tableSchedule_head'>
+          <tr> 
+            <th className='tableSchedule_head'colSpan={showAll ? weekdays.length + 1 : 2}>{selectedClass}</th>
           </tr>
           <tr>
-            <th>Номер урока</th>
+            <th className='tableSchedule_head'>Номер урока</th>
             {weekdays.map((weekday, index) => (
-              (showAll || weekday === selectedDay) && <th key={index}>{weekday}</th>
+              (showAll || weekday === selectedDay) && <th className='tableSchedule_head' key={index}>{weekday}</th>
             ))}
           </tr>
         </thead>
         <tbody>
           {lessons.map((lesson) => (
-            <tr key={lesson}>
-              <td>{lesson}</td>
+            <tr className='tableSchedule_tr' key={lesson}>
+              <td className='tableSchedule_td'>{lesson}</td>
               {weekdays.map((weekday, index) => (
                 (showAll || weekday === selectedDay) && (
-                  <td key={index}>
+                  <td className='tableSchedule_td' key={index}>
                     {lesson <= classSchedule[weekday].length ? classSchedule[weekday][lesson - 1] : null}
                   </td>
                 )
