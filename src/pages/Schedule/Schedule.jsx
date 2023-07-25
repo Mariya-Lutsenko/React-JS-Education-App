@@ -1,21 +1,23 @@
-import React, { useState, useEffect } from 'react'
-import axios from 'axios'
-import Dropdown from '../../components/common/Dropdown/Dropdown';
-import TableSchedule from '../../components/TableSchedule/TableSchedule';
-import DayFilter from '../../components/DayFilter/DayFilter';
+import React, { useState, useEffect } from "react";
+import axios from "axios";
+import Back from "../../components/common/Back/Back";
+import Dropdown from "../../components/common/Dropdown/Dropdown";
+import TableSchedule from "../../components/TableSchedule/TableSchedule";
+import DayFilter from "../../components/DayFilter/DayFilter";
+import "./schedule.css";
 
 const Schedule = () => {
-    const [scheduleData, setScheduleData] = useState(null);
+  const [scheduleData, setScheduleData] = useState(null);
   const [selectedClass, setSelectedClass] = useState(null);
   const [selectedDay, setSelectedDay] = useState(null);
 
   useEffect(() => {
     const fetchScheduleData = async () => {
       try {
-        const response = await axios.get('/data/scheduleData.json'); 
+        const response = await axios.get("/data/scheduleData.json");
         setScheduleData(response.data);
       } catch (error) {
-        console.error('Error fetching data:', error);
+        console.error("Error fetching data:", error);
       }
     };
 
@@ -36,24 +38,36 @@ const Schedule = () => {
   }
 
   return (
-    <div>
-      <h1>Shadule</h1>
-      <Dropdown
-        options={Object.keys(scheduleData).map((className) => ({
-          value: className,
-          label: className,
-        }))}
-        onChange={handleClassChange}
-        title="Оберіть клас"
-      />
-      {selectedClass && scheduleData[selectedClass] && (
-        <>
-         <DayFilter selectedDay={selectedDay}  weekdays={Object.keys(scheduleData[selectedClass])}  onDayChange={handleDayChange} />
-         <TableSchedule scheduleData={scheduleData} selectedClass={selectedClass}   selectedDay={selectedDay} />
-         </>
-      )}
-    </div>
-  )
-}
+    <>
+      <Back title="Розклад уроків" />
+      <section className="schedule">
+        <div className="container scheduleFlex">
+          <Dropdown
+            options={Object.keys(scheduleData).map((className) => ({
+              value: className,
+              label: className,
+            }))}
+            onChange={handleClassChange}
+            title="Оберіть клас"
+          />
+          {selectedClass && scheduleData[selectedClass] && (
+            <>
+              <DayFilter
+                selectedDay={selectedDay}
+                weekdays={Object.keys(scheduleData[selectedClass])}
+                onDayChange={handleDayChange}
+              />
+              <TableSchedule
+                scheduleData={scheduleData}
+                selectedClass={selectedClass}
+                selectedDay={selectedDay}
+              />
+            </>
+          )}
+        </div>
+      </section>
+    </>
+  );
+};
 
-export default Schedule
+export default Schedule;
