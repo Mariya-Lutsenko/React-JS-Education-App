@@ -1,0 +1,9 @@
+/* Show the table cell */
+.visible {
+  display: table-cell;
+}
+
+/* Hide the table cell */
+.hidden {
+  display: none;
+}

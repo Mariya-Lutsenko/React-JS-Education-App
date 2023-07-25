@@ -1,6 +1,8 @@
-import React from 'react'
+import React, {useState} from 'react'
+import "./tableSchedule.css"
 
-const TableSchedule = ({ scheduleData, selectedClass }) => {
+const TableSchedule = ({ scheduleData, selectedClass, selectedDay  }) => {
+  const [showAll, setShowAll] = useState(false);
     const classSchedule = scheduleData[selectedClass];
     if (!classSchedule) {
       return null;
@@ -18,17 +20,21 @@ const TableSchedule = ({ scheduleData, selectedClass }) => {
     }
   
     const lessons = [...new Array(maxLessonCount)].map((_, index) => index + 1);
-  
+
+    
+
     return (
+      <div>
+      <button onClick={() => setShowAll(!showAll)}>Показать все</button>
       <table>
         <thead>
           <tr>
-            <th colSpan={weekdays.length + 1}>{selectedClass}</th>
+            <th colSpan={showAll ? weekdays.length + 1 : 2}>{selectedClass}</th>
           </tr>
           <tr>
             <th>Номер урока</th>
-            {weekdays.map((weekday) => (
-              <th key={weekday}>{weekday}</th>
+            {weekdays.map((weekday, index) => (
+              (showAll || weekday === selectedDay) && <th key={index}>{weekday}</th>
             ))}
           </tr>
         </thead>
@@ -36,15 +42,18 @@ const TableSchedule = ({ scheduleData, selectedClass }) => {
           {lessons.map((lesson) => (
             <tr key={lesson}>
               <td>{lesson}</td>
-              {weekdays.map((weekday) => (
-                <td key={weekday}>
-                  {lesson <= classSchedule[weekday].length ? classSchedule[weekday][lesson - 1] : null}
-                </td>
+              {weekdays.map((weekday, index) => (
+                (showAll || weekday === selectedDay) && (
+                  <td key={index}>
+                    {lesson <= classSchedule[weekday].length ? classSchedule[weekday][lesson - 1] : null}
+                  </td>
+                )
               ))}
             </tr>
           ))}
         </tbody>
       </table>
+    </div>
     );
   };
 

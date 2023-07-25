@@ -2,10 +2,12 @@ import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 import Dropdown from '../../components/common/Dropdown/Dropdown';
 import TableSchedule from '../../components/TableSchedule/TableSchedule';
+import DayFilter from '../../components/DayFilter/DayFilter';
 
 const Schedule = () => {
     const [scheduleData, setScheduleData] = useState(null);
   const [selectedClass, setSelectedClass] = useState(null);
+  const [selectedDay, setSelectedDay] = useState(null);
 
   useEffect(() => {
     const fetchScheduleData = async () => {
@@ -22,6 +24,11 @@ const Schedule = () => {
 
   const handleClassChange = (selectedValue) => {
     setSelectedClass(selectedValue);
+    setSelectedDay(Object.keys(scheduleData[selectedValue])[0]);
+  };
+
+  const handleDayChange = (day) => {
+    setSelectedDay(day);
   };
 
   if (!scheduleData) {
@@ -40,7 +47,10 @@ const Schedule = () => {
         title="Оберіть клас"
       />
       {selectedClass && scheduleData[selectedClass] && (
-         <TableSchedule scheduleData={scheduleData} selectedClass={selectedClass} />
+        <>
+         <DayFilter selectedDay={selectedDay}  weekdays={Object.keys(scheduleData[selectedClass])}  onDayChange={handleDayChange} />
+         <TableSchedule scheduleData={scheduleData} selectedClass={selectedClass}   selectedDay={selectedDay} />
+         </>
       )}
     </div>
   )
