@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import "./tableSchedule.css"
 
-const TableSchedule = ({ scheduleData, selectedClass, selectedDay  }) => {
+const TableSchedule = ({ scheduleData, selectedClass, selectedDay, tableRef  }) => {
   const [showAll, setShowAll] = useState(false);
     const classSchedule = scheduleData[selectedClass];
     if (!classSchedule) {
@@ -26,7 +26,7 @@ const TableSchedule = ({ scheduleData, selectedClass, selectedDay  }) => {
     return (
       <div className='tableschedule-container'>
       <button className="primary-btn schedule" onClick={() => setShowAll(!showAll)}>{buttonText}<i class="fa fa-fw fa-calendar"></i></button>
-      <table className='tableSchedule'>
+      <table className='tableSchedule' ref={tableRef}>
         <thead className='tableSchedule_head'>
           <tr> 
             <th className='tableSchedule_head'colSpan={showAll ? weekdays.length + 1 : 2}>{selectedClass}</th>

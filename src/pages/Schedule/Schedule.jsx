@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import Back from "../../components/common/Back/Back";
 import Dropdown from "../../components/common/Dropdown/Dropdown";
@@ -10,6 +10,7 @@ const Schedule = () => {
   const [scheduleData, setScheduleData] = useState(null);
   const [selectedClass, setSelectedClass] = useState(null);
   const [selectedDay, setSelectedDay] = useState(null);
+  const tableRef = useRef(null);
 
   useEffect(() => {
     const fetchScheduleData = async () => {
@@ -24,9 +25,16 @@ const Schedule = () => {
     fetchScheduleData();
   }, []);
 
+  useEffect(() => {
+    if (tableRef.current && selectedDay) {
+      tableRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [selectedDay]);
+
   const handleClassChange = (selectedValue) => {
     setSelectedClass(selectedValue);
     setSelectedDay(Object.keys(scheduleData[selectedValue])[0]);
+  
   };
 
   const handleDayChange = (day) => {
@@ -36,6 +44,8 @@ const Schedule = () => {
   if (!scheduleData) {
     return <div>Loading...</div>;
   }
+
+
 
   return (
     <>
@@ -56,11 +66,13 @@ const Schedule = () => {
                 selectedDay={selectedDay}
                 weekdays={Object.keys(scheduleData[selectedClass])}
                 onDayChange={handleDayChange}
+              
               />
               <TableSchedule
                 scheduleData={scheduleData}
                 selectedClass={selectedClass}
                 selectedDay={selectedDay}
+                tableRef={tableRef}
               />
             </>
           )}
