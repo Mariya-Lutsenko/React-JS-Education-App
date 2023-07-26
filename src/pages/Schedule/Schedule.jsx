@@ -42,7 +42,7 @@ const Schedule = () => {
   };
 
   if (!scheduleData) {
-    return <div>Loading...</div>;
+    return <div></div>;
   }
 
 
