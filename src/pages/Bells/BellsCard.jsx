@@ -14,7 +14,7 @@ const BellsCard = () => {
       try {
         const response = await fetch("/data/lessonTimeData.json");
         const data = await response.json();
-        setLessonTimeData(data.lessonTimeData);
+        setLessonTimeData(data);
       } catch (error) {
         console.error("Error fetching lessonTimeData.json:", error);
       }

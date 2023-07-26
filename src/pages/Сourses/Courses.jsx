@@ -14,10 +14,10 @@ const Courses = () => {
     setSelectedClass(selectedValue);
   };
 
-  const options = (coursesData?.coursesData || []).map((classItem) => ({
+  const options = (coursesData?.map((classItem) => ({
     value: classItem.class,
     label: classItem.class,
-  }));
+  })));
 
   useEffect(() => {
     const fetchCoursesData = async () => {
@@ -58,7 +58,7 @@ const Courses = () => {
           <TableCourses
             tableRef={tableRef}
             selectedClass={selectedClass}
-            data={coursesData?.coursesData || []}
+            data={coursesData || []}
           />
         </div>
       </section>

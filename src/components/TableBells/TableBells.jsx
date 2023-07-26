@@ -12,7 +12,7 @@ const TableBells = () => {
       try {
         const response = await fetch("/data/lessonTimeData.json");
         const data = await response.json();
-        const classData = data.lessonTimeData.find((classItem) => classItem.id === Number(id));
+        const classData = data.find((classItem) => classItem.id === Number(id));
           if (classData) {
             setClassData(classData);
           }
