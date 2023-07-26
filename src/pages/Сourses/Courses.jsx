@@ -1,22 +1,36 @@
 import React, { useState, useEffect, useRef } from "react";
 import Dropdown from "../../components/Dropdown/Dropdown";
 import TableCourses from "../../components/TableCourses/TableCourses";
-import { classesCourses } from "../../data/classesCourses";
 import Back from "../../components/Back/Back";
 import "./courses.css";
 
+
 const Courses = () => {
   const [selectedClass, setSelectedClass] = useState("");
+  const [coursesData, setCoursesData] = useState(null);
   const tableRef = useRef(null);
 
   const handleDropdownChange = (selectedValue) => {
     setSelectedClass(selectedValue);
   };
 
-  const options = classesCourses.map((classItem) => ({
+  const options = (coursesData?.coursesData || []).map((classItem) => ({
     value: classItem.class,
     label: classItem.class,
   }));
+
+  useEffect(() => {
+    const fetchCoursesData = async () => {
+      try {
+        const response = await fetch("/data/coursesData.json");
+        const data = await response.json();
+        setCoursesData(data);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    };
+    fetchCoursesData();
+  }, []);
 
   useEffect(() => {
     if (tableRef.current && selectedClass) {
@@ -30,16 +44,23 @@ const Courses = () => {
       <section className="courses">
         <div className="container coursesFlex">
           <div className="grid2">
-          <div className="courses_left">
-            <img src="/images/courses/courses1.jpg" alt="" />
+            <div className="courses_left">
+              <img src="/images/courses/courses1.jpg" alt="" />
+            </div>
+            <div className="courses_right">
+              <Dropdown
+                options={options}
+                title="Оберіть клас"
+                onChange={handleDropdownChange}
+              />
+            </div>
           </div>
-          <div className="courses_right">
-            <Dropdown options={options} title="Оберіть клас"onChange={handleDropdownChange} />
-          </div>
-          </div>
-          <TableCourses tableRef={tableRef} selectedClass={selectedClass} data={classesCourses} />
+          <TableCourses
+            tableRef={tableRef}
+            selectedClass={selectedClass}
+            data={coursesData?.coursesData || []}
+          />
         </div>
-
       </section>
     </>
   );
