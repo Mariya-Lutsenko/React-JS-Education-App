@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 768px) {
   .dropdown {
-    width: 100%;
+    width: 80%;
     font-size: 16px;
     font-weight: 600;
     padding: 15px;

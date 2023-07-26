@@ -2,6 +2,7 @@
   margin-top: 15px;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 .filter-title {
   color: #08b1f9;
@@ -19,4 +20,10 @@
 }
 .filter-input {
   margin-right: 10px;
+}
+@media screen and (max-width: 768px) {
+  .label-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
 }

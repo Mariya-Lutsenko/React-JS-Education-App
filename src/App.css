@@ -123,8 +123,12 @@ p {
 }
 
 @media screen and (max-width: 900px) {
+  .container {
+    max-width: 90%;
+    margin: auto;
+  }
   .back {
-    padding-top: 60%;
+    padding-top: 65%;
     height: 100vh;
   }
   .back h1 {

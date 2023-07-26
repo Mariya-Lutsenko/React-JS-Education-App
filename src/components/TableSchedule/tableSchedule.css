@@ -49,15 +49,15 @@
   .tableSchedule {
     width: 100%;
     margin: 20px auto;
-    padding: 10px 2px;
+    padding: 5px 5px;
   }
 
   .tableSchedule_head {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .tableSchedule_tr {
-    font-size: 12px;
+    font-size: 14px;
   }
   .primary-btn.schedule {
     display: none;
