@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
-import Dropdown from "../../components/common/Dropdown/Dropdown";
+import Dropdown from "../../components/Dropdown/Dropdown";
 import TableCourses from "../../components/TableCourses/TableCourses";
 import { classesCourses } from "../../data/classesCourses";
-import Back from "../../components/common/Back/Back";
+import Back from "../../components/Back/Back";
 import "./courses.css";
 
 const Courses = () => {

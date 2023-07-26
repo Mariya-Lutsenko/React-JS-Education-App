@@ -1,41 +1,41 @@
-.callsHome {
+.bells {
   height: auto;
 }
-.callsHome #heading {
+.bells #heading {
   text-align: left;
   padding: 0;
 }
-.callsHome .left img {
+.bells .left img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.callsHome .right {
+.bells .right {
   padding: 80px 50px;
 }
-.callsHome .items {
+.bells .items {
   margin-top: 50px;
   width: 80%;
   margin: auto;
 }
-.callsHome .item {
+.bells .item {
   background-color: #fff;
   margin-top: 30px;
   padding: 20px;
   transition: 0.5s;
 }
-.callsHome .img {
+.bells .img {
   margin-right: 20px;
 }
-.callsHome img {
+.bells img {
   width: 70px;
   height: 70px;
 }
-.callsHome .item .text {
+.bells .item .text {
   font-size: 20px;
   color: #3fb4e6;
 }
-.callsHome .item:hover {
+.bells .item:hover {
   background-color: #3fb4e6;
   color: #fff;
   cursor: pointer;
@@ -52,25 +52,25 @@
 }
 
 @media screen and (max-width: 768px) {
-  .callsHome {
+  .bells {
     margin-top: 10%;
   }
-  .callsHome .container {
+  .bells .container {
     flex-direction: column-reverse;
   }
-  .callsHome .row {
+  .bells .row {
     width: 100%;
   }
-  .callsHome .right {
+  .bells .right {
     padding: 80px 50px 20px 50px;
   }
   .left.row img {
     display: none;
   }
-  .callsHome .items {
+  .bells .items {
     width: 90%;
   }
-  .callsHome .item .text {
+  .bells .item .text {
     font-size: 16px;
   }
 }

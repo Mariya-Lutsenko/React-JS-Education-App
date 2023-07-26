@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
-import Back from "../../components/common/Back/Back";
-import Dropdown from "../../components/common/Dropdown/Dropdown";
+import Back from "../../components/Back/Back";
+import Dropdown from "../../components/Dropdown/Dropdown";
 import TableSchedule from "../../components/TableSchedule/TableSchedule";
 import DayFilter from "../../components/DayFilter/DayFilter";
 import "./schedule.css";

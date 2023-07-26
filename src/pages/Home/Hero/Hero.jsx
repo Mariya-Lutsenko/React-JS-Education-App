@@ -1,7 +1,7 @@
 import React from "react"
 import "./hero.css";
-import Title from "../../../components/common/Title/Title";
-import Clouds from "../../../components/common/Clouds/Clouds";
+import Title from "../../../components/Title/Title";
+import Clouds from "../../../components/Clouds/Clouds";
 import Loader from "../../../components/Loader/Loader";
 
 const Hero = () => {

@@ -1,4 +1,4 @@
-.tableCalls {
+.tableBells {
   table-layout: auto;
   background-color: #fdfefe;
   width: 60%;
@@ -9,41 +9,41 @@
   box-shadow: -1px 1px 34px 4px rgba(171, 178, 185, 1);
 }
 
-.tableCalls_head,
-.tableCalls_td {
+.tableBells_head,
+.tableBells_td {
   height: 40px;
   text-align: center;
   white-space: normal;
 }
 
-.tableCalls_head {
+.tableBells_head {
   background-color: #3fb4e6;
   color: #fff;
   font-size: 20px;
   text-transform: uppercase;
 }
 
-.tableCalls_tr {
+.tableBells_tr {
   font-size: 20px;
   background-color: #fdfefe;
   color: #646565;
 }
 
-.tableCalls_tr:nth-child(even) {
+.tableBells_tr:nth-child(even) {
   background-color: #f0f2a9;
 }
 
 @media screen and (max-width: 768px) {
-  .tableCalls {
+  .tableBells {
     width: 90%;
     margin: 0px auto;
   }
 
-  .tableCalls_head {
+  .tableBells_head {
     font-size: 14px;
   }
 
-  .tableCalls_tr {
+  .tableBells_tr {
     font-size: 14px;
   }
 }

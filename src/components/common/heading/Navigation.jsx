@@ -16,7 +16,7 @@ const Navigation = () => {
           <Link className="navigation_link" to="/contacts">
             Контакти
           </Link>
-          <Link className="navigation_link" to="/calls">
+          <Link className="navigation_link" to="/bells">
             Розклад дзвоників
           </Link>
           <Link className="navigation_link" to="/schedule">
