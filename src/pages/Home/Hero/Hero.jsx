@@ -2,11 +2,26 @@ import React from "react"
 import "./hero.css";
 import Title from "../../../components/common/Title/Title";
 import Clouds from "../../../components/common/Clouds/Clouds";
+import Loader from "../../../components/Loader/Loader";
 
 const Hero = () => {
+  const [loading, setLoading] = React.useState(true);
+  const handleImageLoad = () => {
+    setLoading(false);
+  };
     return (
       <>
-        <section className='hero'>
+      {loading && <Loader />}
+        <section className='hero' style={{
+          backgroundColor: "#f0f0f0",
+          backgroundImage: 'url("/images/bg-home-4.jpg")',
+        }}>
+            <img
+          src="/images/bg-home-4.jpg"
+          alt="background"
+          onLoad={handleImageLoad}
+          style={{ display: "none" }}
+        />
           <div className='container'>
             <div className='row'>
               <Title title='Платформа для організації навчання'/>
