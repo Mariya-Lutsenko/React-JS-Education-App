@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import "./App.css";
 import React from "react";
-import Header from "./components/common/heading/Header";
+import Header from "./components/Heading/Header";
 import UserRoutes from "./UserRoutes";
 import Loader from "./components/Loader/Loader";
 
