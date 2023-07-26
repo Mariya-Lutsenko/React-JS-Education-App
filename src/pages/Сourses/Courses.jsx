@@ -4,7 +4,6 @@ import TableCourses from "../../components/TableCourses/TableCourses";
 import Back from "../../components/Back/Back";
 import "./courses.css";
 
-
 const Courses = () => {
   const [selectedClass, setSelectedClass] = useState("");
   const [coursesData, setCoursesData] = useState(null);
@@ -14,10 +13,10 @@ const Courses = () => {
     setSelectedClass(selectedValue);
   };
 
-  const options = (coursesData?.map((classItem) => ({
+  const options = coursesData?.map((classItem) => ({
     value: classItem.class,
     label: classItem.class,
-  })));
+  }));
 
   useEffect(() => {
     const fetchCoursesData = async () => {
@@ -48,11 +47,13 @@ const Courses = () => {
               <img src="/images/courses/courses1.jpg" alt="" />
             </div>
             <div className="courses_right">
-              <Dropdown
-                options={options}
-                title="Оберіть клас"
-                onChange={handleDropdownChange}
-              />
+              {options && (
+                <Dropdown
+                  options={options}
+                  title="Оберіть клас"
+                  onChange={handleDropdownChange}
+                />
+              )}
             </div>
           </div>
           <TableCourses
