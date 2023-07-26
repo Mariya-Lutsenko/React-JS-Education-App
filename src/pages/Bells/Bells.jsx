@@ -3,7 +3,7 @@ import Back from '../../components/Back/Back'
 import BellsCard from './BellsCard'
 import TableBells from '../../components/TableBells/TableBells'
 
-const Calls = () => {
+const Bells = () => {
   return (
     <>
       <Back title="Розклад дзвоників"/>
@@ -13,4 +13,4 @@ const Calls = () => {
   )
 }
 
-export default Calls
+export default Bells

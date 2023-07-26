@@ -4,7 +4,6 @@ import Clouds from '../Clouds/Clouds';
 
 const Back = ({title}) => {
     const location = useLocation();
-    console.log({location})
   return (
   
     <>

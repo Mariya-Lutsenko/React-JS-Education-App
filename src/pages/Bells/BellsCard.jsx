@@ -1,14 +1,26 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
 import Title from "../../components/Title/Title";
 import "./bells.css";
-import { typesEducation } from "../../data/typesEducation";
-
 
 const BellsCard = () => {
   const location = useLocation();
-  const from = location.state?.from || 'calls';
+  const from = location.state?.from || "calls";
+  const [lessonTimeData, setLessonTimeData] = useState([]);
+
+  useEffect(() => {
+    const fetchLessonTimeData = async () => {
+      try {
+        const response = await fetch("/data/lessonTimeData.json");
+        const data = await response.json();
+        setLessonTimeData(data.lessonTimeData);
+      } catch (error) {
+        console.error("Error fetching lessonTimeData.json:", error);
+      }
+    };
+    fetchLessonTimeData();
+  }, []);
 
   return (
     <div>
@@ -20,10 +32,15 @@ const BellsCard = () => {
           <div className="right row">
             <Title title="Розклад початку та закінчення уроків" />
             <div className="items">
-              {typesEducation.map(({id, cover, title}) => (
-                <Link to={`tablebells/${id}`} state={{from}} className="item itemflex">
+              {lessonTimeData.map(({ id, cover, title }) => (
+                <Link
+                  to={`tablebells/${id}`}
+                  key={id}
+                  state={{ from }}
+                  className="item itemflex"
+                >
                   <div className="img">
-                    <img src={cover} alt=""  />
+                    <img src={cover} alt="" />
                   </div>
                   <div className="text">
                     <h2>{title}</h2>
@@ -32,7 +49,7 @@ const BellsCard = () => {
               ))}
             </div>
           </div>
-        </div> 
+        </div>
       </section>
     </div>
   );
