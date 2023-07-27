@@ -30,7 +30,7 @@ const Contacts = () => {
           </div>
           <div className="contacts-right row">
             <h1 className="contacts-title">
-              Контакти КЗ "Харківський ліцей № 140" Харківської міськох ради
+              КЗ "Харківський ліцей № 140" Харківської міської ради
             </h1>
             <ul className="items grid3">
               <li className="box">
