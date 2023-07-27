@@ -18,9 +18,9 @@
 }
 
 @media screen and (max-width: 768px) {
-  .courses {
+  /* .courses {
     margin-top: 30%;
-  }
+  } */
   .courses_left {
     padding: 0px;
   }

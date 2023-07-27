@@ -86,6 +86,7 @@ const Contacts = () => {
                 onChange={(e) => setMessage(e.target.value)}
                 onFocus={handleTextareaFocus}
                 onBlur={handleTextareaBlur}
+                placeholder="Напишіть ваше повідомлення..."
               ></textarea>
               <button type="submit" className="primary-btn">
                 Відправити повідомлення

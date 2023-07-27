@@ -52,9 +52,9 @@
 }
 
 @media screen and (max-width: 768px) {
-  .bells {
+  /* .bells {
     margin-top: 10%;
-  }
+  } */
   .bells .container {
     flex-direction: column-reverse;
   }
