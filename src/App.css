@@ -121,7 +121,18 @@ p {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 30px;
 }
-
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+.padding {
+  padding: 80px 0;
+}
+.shadow {
+  box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+  background-color: #fff;
+}
 @media screen and (max-width: 900px) {
   .container {
     max-width: 90%;
@@ -136,10 +147,14 @@ p {
     font-weight: 400;
   }
   .grid2,
-  .grid3,
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .grid3 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
   .margin {
     height: 40vh;
   }

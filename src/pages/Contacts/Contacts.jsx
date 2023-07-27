@@ -1,0 +1,54 @@
+import React from "react";
+import Back from "../../components/Back/Back";
+import "./contacts.css";
+
+const Contacts = () => {
+  const map =
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2563.653419833835!2d36.340143576126145!3d50.01785091841813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x412709dea72f2a97%3A0x324e0d27ba282882!2z0KXQsNGA0LrRltCy0YHRjNC60LAg0LfQsNCz0LDQu9GM0L3QvtC-0YHQstGW0YLQvdGPINGI0LrQvtC70LAgSeKAk0lJSSDRgdGC0YPQv9C10L3RltCyIOKEliAxNDA!5e0!3m2!1suk!2sua!4v1690457055281!5m2!1suk!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"';
+  return (
+    <>
+      <Back title="Наші контакти" />
+      <section className="contacts padding">
+        <div className="container shadow flexSB">
+          <div className="contacts-left row">
+            <iframe src={map} title="Наш заклад на Google картах"></iframe>
+          </div>
+          <div className="contacts-right row">
+            <h1 className="contacts-title">Контакти КЗ "Харківський ліцей № 140" Харківської міськох ради</h1>
+            <ul className="items grid3">
+              <li className="box">
+                <h4>Адреса:</h4>
+                <p>61135, м.Харків, вул.Гвардійців Широнінців, 61</p>
+              </li>
+              <li className="box">
+                <h4>Email:</h4>
+                <p>sch140@kharkivosvita.net.ua</p>
+              </li>
+              <li className="box">
+                <h4>Телефон:</h4>
+                <p> +38 057 725 16 51</p>
+              </li>
+            </ul>
+
+            <form action="">
+              <div className="flexSB">
+                <input type="text" placeholder="Прізвище Ім'я" />
+                <input type="email" placeholder="Ваша елнектронна пошта" />
+              </div>
+              <input type="text" placeholder="Тема повідомлення" />
+              <textarea cols="30" rows="10">
+                Напишіть ваше повідомлення...
+              </textarea>
+              <button className="primary-btn">Відправити повідомлення</button>
+            </form>
+
+            <h3>Приєднуйтесь до нас у соціальній мережі</h3>
+            <span>FACEBOOK</span>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+};
+
+export default Contacts;

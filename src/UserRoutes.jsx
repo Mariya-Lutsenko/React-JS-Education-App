@@ -7,12 +7,12 @@ import TableBells from './components/TableBells/TableBells';
 // import Courses from './pages/Сourses/Courses';
 // import Schedule from './pages/Schedule/Schedule';
 
-
+// import Contacts from './pages/Contacts/Contacts';
 const Home = lazy(()=> import('./pages/Home/Home'))
 const Bells = lazy(()=> import('./pages/Bells/Bells'))
 const Courses = lazy(()=> import('./pages/Сourses/Courses'))
 const Schedule = lazy(()=> import('./pages/Schedule/Schedule'))
-
+const Contacts = lazy(()=> import('./pages/Contacts/Contacts'))
 
 const UserRoutes = () => {
   return (
@@ -24,6 +24,7 @@ const UserRoutes = () => {
       </Route>
       <Route path="/courses" element={<Courses />} />
       <Route path="/schedule" element={<Schedule />} />
+      <Route path="/contacts" element={<Contacts />} />
       <Route path="*" element={<Home />} />
     </Routes>
   
