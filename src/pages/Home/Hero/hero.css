@@ -30,7 +30,7 @@
   .hero .row {
     width: 100%;
   }
-  .margin {
-    height: 40vh;
+  .margin-hero {
+    height: 0vh;
   }
 }

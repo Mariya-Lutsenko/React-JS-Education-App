@@ -29,7 +29,7 @@ const Hero = () => {
         <Clouds/>
           </div>
         </section>
-        <div className='margin'></div>
+        <div className='margin-hero'></div>
       </>
     )
   }
