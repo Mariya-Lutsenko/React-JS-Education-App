@@ -5,7 +5,8 @@ import "./contacts.css";
 const Contacts = () => {
   const map =
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2563.653419833835!2d36.340143576126145!3d50.01785091841813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x412709dea72f2a97%3A0x324e0d27ba282882!2z0KXQsNGA0LrRltCy0YHRjNC60LAg0LfQsNCz0LDQu9GM0L3QvtC-0YHQstGW0YLQvdGPINGI0LrQvtC70LAgSeKAk0lJSSDRgdGC0YPQv9C10L3RltCyIOKEliAxNDA!5e0!3m2!1suk!2sua!4v1690457055281!5m2!1suk!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"';
-  return (
+    const phoneNumber = "+380577251651";
+    return (
     <>
       <Back title="Наші контакти" />
       <section className="contacts padding">
@@ -26,7 +27,7 @@ const Contacts = () => {
               </li>
               <li className="box">
                 <h4>Телефон:</h4>
-                <p> +38 057 725 16 51</p>
+                <a href={`tel:${phoneNumber}`}>+38 057 725 16 51</a>
               </li>
             </ul>
 

@@ -22,6 +22,15 @@
   font-size: 17px;
   margin-top: 10px;
 }
+.contacts .box a {
+  font-size: 17px;
+  margin-top: 10px;
+  color: #3fb4e6;
+}
+.contacts .box a:hover {
+  color: #055d82;
+}
+
 .contacts textarea,
 .contacts input {
   width: 100%;
