@@ -1,9 +1,8 @@
 import React from 'react'
-import { useLocation } from 'react-router-dom'
+
 import Clouds from '../Clouds/Clouds';
 
 const Back = ({title}) => {
-    const location = useLocation();
   return (
   
     <>
