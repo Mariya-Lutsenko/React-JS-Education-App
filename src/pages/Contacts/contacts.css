@@ -56,6 +56,10 @@
   font-size: 15px;
   word-spacing: 5px;
 }
+.center-button {
+  display: flex;
+  justify-content: center;
+}
 @media screen and (max-width: 768px) {
   /* .contacts {
     padding: 40px 0;
