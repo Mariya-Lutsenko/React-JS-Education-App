@@ -30,7 +30,7 @@ const BellsCard = () => {
             <img src="/images/about.webp" alt="" />
           </div>
           <div className="right row">
-            <Title title="Розклад початку та закінчення уроків" />
+          
             <div className="items">
               {lessonTimeData.map(({ id, cover, title }) => (
                 <Link
