@@ -1,37 +1,29 @@
 import React from "react"
+import { Link } from "react-router-dom";
 import "./hero.css";
 import Title from "../../../components/Title/Title";
 import Clouds from "../../../components/Clouds/Clouds";
-import Loader from "../../../components/Loader/Loader";
+
 
 const Hero = () => {
-  const [loading, setLoading] = React.useState(true);
-  const handleImageLoad = () => {
-    setLoading(false);
-  };
+
     return (
       <>
-      {loading && <Loader />}
-        <section className='hero' style={{
-          backgroundColor: "#f0f0f0",
-          backgroundImage: 'url("/images/bg-home-4.jpg")',
-        }}>
-            <img
-          src="/images/bg-home-4.jpg"
-          alt="background"
-          onLoad={handleImageLoad}
-          style={{ display: "none" }}
-        />
+        <section className='hero'>
           <div className='container'>
             <div className='row'>
               <Title title='Платформа для організації навчання'/>
-              <div className='button'>
+              <div className='hero-button'>
+              <Link to="/schedule">
                 <button className='primary-btn'>
                   Розклад уроків <i className='fa fa-long-arrow-alt-right'></i>
                 </button>
+                </Link>
+                <Link to="/courses">
                 <button>
                   Коди курсів Google Classroom <i className='fa fa-long-arrow-alt-right'></i>
-                </button>
+                </button> </Link>
+               
               </div>
             </div>
         <Clouds/>
