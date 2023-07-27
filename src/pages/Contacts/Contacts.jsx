@@ -94,7 +94,8 @@ const Contacts = () => {
             </form>
 
             <h3>Приєднуйтесь до нас у соціальній мережі</h3>
-            <span>FACEBOOK</span>
+            <a href="https://www.facebook.com/groups/2421366434855904/" target="_blank" rel="noopener noreferrer" className='head_icon_link'> <span>FACEBOOK</span> </a> 
+            
           </div>
         </div>
       </section>

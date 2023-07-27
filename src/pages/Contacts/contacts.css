@@ -76,4 +76,10 @@
     margin-top: 0px;
     margin-bottom: 0px;
   }
+  .contacts-right {
+    padding: 10px;
+  }
+  form .flexSB {
+    display: block;
+  }
 }
