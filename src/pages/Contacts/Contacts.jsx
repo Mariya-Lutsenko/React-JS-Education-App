@@ -23,7 +23,7 @@ const Contacts = () => {
   return (
     <>
       <Back title="Наші контакти" />
-      <section className="contacts padding">
+      <section className="contacts">
         <div className="container shadow flexSB">
           <div className="contacts-left row">
             <iframe src={map} title="Наш заклад на Google картах"></iframe>
