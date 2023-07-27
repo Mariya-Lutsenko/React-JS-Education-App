@@ -25,6 +25,7 @@
   margin-top: 10px;
 }
 .contacts .box a {
+  display: inline-block;
   font-size: 17px;
   margin-top: 10px;
   color: #3fb4e6;

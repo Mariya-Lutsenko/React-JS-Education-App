@@ -43,7 +43,7 @@ const Contacts = () => {
               </li>
               <li className="box">
                 <h4>Телефон:</h4>
-                <a href={`tel:${phoneNumber}`}>+38 057 725 16 51</a>
+                <a href={`tel:${phoneNumber}`}>+380577251651</a>
               </li>
             </ul>
 
