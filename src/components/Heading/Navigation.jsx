@@ -11,7 +11,7 @@ const Navigation = () => {
         <div className={click? "mobile-nav" : "wrapper_link"} onClick={()=>setClick(false)}>
         {/* <div className="wrapper_link"> */}
           <Link className="navigation_link" to="/">
-            Домашня сторінка
+            Головна
           </Link>
           <Link className="navigation_link" to="/contacts">
             Контакти
