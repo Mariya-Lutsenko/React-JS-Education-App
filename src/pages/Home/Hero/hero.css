@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../../../../public/images/bg-home-4.jpg");
+  background-image: url("../../../../public/images/bg-home-4.webp");
   background-size: cover;
   /* background-position: bottom; */
   background-attachment: fixed;
@@ -32,5 +32,11 @@
   }
   .margin-hero {
     height: 0vh;
+  }
+}
+
+@supports (background-image: url("../../../../public/images/bg-home-4.webp")) {
+  .hero {
+    background-image: url("../../../../public/images/bg-home-4.webp");
   }
 }
