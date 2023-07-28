@@ -1,18 +1,18 @@
-import { lazy } from 'react';
+// import { lazy } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-// import Home from './pages/Home/Home';
-// import Calls from './pages/Calls/Calls';
+import Home from './pages/Home/Home';
+import Bells from './pages/Bells/Bells';
 import TableBells from './components/TableBells/TableBells';
-// import Courses from './pages/Сourses/Courses';
-// import Schedule from './pages/Schedule/Schedule';
+import Courses from './pages/Сourses/Courses';
+import Schedule from './pages/Schedule/Schedule';
+import Contacts from './pages/Contacts/Contacts';
 
-// import Contacts from './pages/Contacts/Contacts';
-const Home = lazy(()=> import('./pages/Home/Home'))
-const Bells = lazy(()=> import('./pages/Bells/Bells'))
-const Courses = lazy(()=> import('./pages/Сourses/Courses'))
-const Schedule = lazy(()=> import('./pages/Schedule/Schedule'))
-const Contacts = lazy(()=> import('./pages/Contacts/Contacts'))
+// const Home = lazy(()=> import('./pages/Home/Home'))
+// const Bells = lazy(()=> import('./pages/Bells/Bells'))
+// const Courses = lazy(()=> import('./pages/Сourses/Courses'))
+// const Schedule = lazy(()=> import('./pages/Schedule/Schedule'))
+// const Contacts = lazy(()=> import('./pages/Contacts/Contacts'))
 
 const UserRoutes = () => {
   return (
