@@ -35,8 +35,8 @@
   }
 }
 
-@supports (background-image: url("../../../../public/images/bg-home-4.webp")) {
+/* @supports (background-image: url("../../../../public/images/bg-home-4.webp")) {
   .hero {
     background-image: url("../../../../public/images/bg-home-4.webp");
   }
-}
+} */

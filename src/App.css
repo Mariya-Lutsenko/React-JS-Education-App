@@ -160,8 +160,8 @@ p {
   }
 }
 
-@supports (background-image: url("../public/images/bg-back.webp")) {
+/* @supports (background-image: url("../public/images/bg-back.webp")) {
   .hero {
     background-image: url("../public/images/bg-back.webp");
   }
-}
+} */
