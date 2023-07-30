@@ -12,7 +12,7 @@ const Bells = lazy(()=> import('./pages/Bells/Bells'))
 const Courses = lazy(()=> import('./pages/Сourses/Courses'))
 const Schedule = lazy(()=> import('./pages/Schedule/Schedule'))
 const Contacts = lazy(()=> import('./pages/Contacts/Contacts'))
-
+const Books = lazy(()=> import('./pages/Books/Books'))
 const UserRoutes = () => {
   return (
    
@@ -24,6 +24,7 @@ const UserRoutes = () => {
       <Route path="/courses" element={<Courses />} />
       <Route path="/schedule" element={<Schedule />} />
       <Route path="/contacts" element={<Contacts />} />
+      <Route path="/books" element={<Books />} />
       <Route path="*" element={<Home />} />
     </Routes>
   

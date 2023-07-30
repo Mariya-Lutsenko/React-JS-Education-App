@@ -1,97 +1,162 @@
 [
   {
     "id": 1,
-    "class": "1-А клас",
+    "class": "1 клас",
     "subjects": [
       {
         "name": "Математика",
-        "code": "xg5yb",
-        "teacher": "Іванова М.В.",
-        "email": "ivanova.gmail.com"
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/07_Matematyka_1kl/Matematyka_pidruchnyk%20dlia%201%20klasu%20ZZSO%20(Skvortsova%20S.%20O.,%20Onopriienko%20O.%20V.)%20.pdf"
       },
       {
-        "name": "Українська мова",
-        "code": "xg5q5y58b",
-        "teacher": "Хромова М.В.",
-        "email": "hromova.gmail.com"
+        "name": "Англійська мова",
+        "author": "Карпюк О.Л.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/03_Inozemnamova_english_1kl/KarpyukOD/English_1_2018_Aston.pdf"
       },
       {
-        "name": "Малювання",
-        "code": "111q5y5b",
-        "teacher": "Петрова М.В.",
-        "email": "petrova.gmail.com"
+        "name": "Українська мова. Буквар І частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/01_Ukr_mova_Bukvar_1kl/VashulenkoMS/Bukvar_1kl_ukr.pdf"
+      },
+      {
+        "name": "Українська мова. Буквар ІI частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/01_Ukr_mova_Bukvar_1kl/VashulenkoMS/BUKVAR_1-KL_VASH_CH-2_.pdf"
       }
     ]
   },
   {
     "id": 2,
-    "class": "1-Б клас",
+    "class": "2 клас",
     "subjects": [
       {
+        "name": "Українська мова та читання, І частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/01-ukrainska-mova-ta-chytannya-2-klas/ukr-mova-2-kl-vashulenko-dubovyk-vashulenko/2-kl-vashylenko-ukr-mova-blok.pdf"
+      },
+      {
+        "name": "Українська мова та читання, ІI частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/01-ukrainska-mova-ta-chytannya-2-klas/ukr-mova-2-kl-vashulenko-dubovyk-vashulenko/2-klas-literatyrne-chutannya-blok.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Губарєва С.С., Павліченко О.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/03-inozemna-mova-angliyska-mova-2-klas/angliyska-mova-2-klas-gubarjeva-pavlichenko-zalyubovska/Anhliiska%20mova%20pidruchnyk%20dlia%202%20klasu%20ZZSO%20(z%20audiosuprovodom)(Hubarieva%20S.%20S.,%20Pavlichenko%20O.%20M.,%20Zaliubovska%20L.%20V.).pdf"
+      },
+      {
         "name": "Математика",
-        "code": "xg565698",
-        "teacher": "Твердохліб М.В.",
-        "email": "ivanova.gmail.com"
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/07-matematyka-2-klas/matymatyka-pidruchnyk-dlia-2-klasu-zzso-skvortsova-s-o-onopriienko-o-v.pdf"
       },
       {
-        "name": "Українська мова",
-        "code": "xg5556899",
-        "teacher": "Курганська М.В.",
-        "email": "hromova.gmail.com"
+        "name": "Я досліджую світ, І частина",
+        "author": "Бібік Н.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/08-ya-doslidzhuyu-svit-2-klas/yads-2-klas-bibikbondarchuk-kornijenko-ta-inshi/ya-doslidzhuiu-svit-pidruchnyk-dlia-2-klasu-zzso-u-2-chastynakh-chastyna-1-avt-bibik-n-m-bondarchuk-h-p.pdf"
       },
       {
-        "name": "Малювання",
-        "code": "1896545yb",
-        "teacher": "Луценко М.В.",
-        "email": "petrova.gmail.com"
+        "name": "Я досліджую світ, ІІ частина",
+        "author": "Корнієнко М.М., Крамаровська С.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/08-ya-doslidzhuyu-svit-2-klas/yads-2-klas-bibikbondarchuk-kornijenko-ta-inshi/Ya%20doslidzhuiu%20svit_pidruchnyk%20dlia%202%20klasu%20ZZSO%20(u%202%20chastynakh)%20(Chastyna%202%20avt.%20Korniienko%20M.%20M.,%20Kramarovska%20S.%20M.,%20Zaretska%20I.%20T.).pdf"
       }
     ]
   },
   {
     "id": 3,
-    "class": "2-А клас",
+    "class": "3 клас",
     "subjects": [
       {
-        "name": "Фізична культура",
-        "code": "1115555b",
-        "teacher": "Твердохліб М.В.",
-        "email": "ivanova.gmail.com"
-      },
-      {
-        "name": "Малювання",
-        "code": "x56897",
-        "teacher": "Курганська М.В.",
-        "email": "hromova.gmail.com"
-      },
-      {
-        "name": "Мистецтво",
-        "code": "11235684",
-        "teacher": "Луценко М.В.",
-        "email": "petrova.gmail.com"
+        "name": "",
+        "author": "",
+        "link": ""
       }
     ]
   },
   {
     "id": 4,
-    "class": "2-Б клас",
+    "class": "4 клас",
     "subjects": [
       {
-        "name": "Фізична культура",
-        "code": "xg777777yb6",
-        "teacher": "Твердохліб М.В.",
-        "email": "ivanova.gmail.com"
-      },
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "class": "5 клас",
+    "subjects": [
       {
-        "name": "Малювання",
-        "code": "xg5689y7",
-        "teacher": "Курганська М.В.",
-        "email": "hromova.gmail.com"
-      },
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "class": "6 клас",
+    "subjects": [
       {
-        "name": "Мистецтво",
-        "code": "1115555b",
-        "teacher": "Луценко М.В.",
-        "email": "petrova.gmail.com"
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "class": "7 клас",
+    "subjects": [
+      {
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "class": "8 клас",
+    "subjects": [
+      {
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "class": "9 клас",
+    "subjects": [
+      {
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "class": "10 клас",
+    "subjects": [
+      {
+        "name": "",
+        "author": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "class": "11 клас",
+    "subjects": [
+      {
+        "name": "",
+        "author": "",
+        "link": ""
       }
     ]
   }
