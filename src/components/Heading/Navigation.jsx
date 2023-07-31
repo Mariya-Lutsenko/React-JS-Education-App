@@ -13,8 +13,8 @@ const Navigation = () => {
           <Link className="navigation_link" to="/">
             Головна
           </Link>
-          <Link className="navigation_link" to="/contacts">
-            Контакти
+          <Link className="navigation_link" to="/about">
+            Як організувати онлайн-навчання
           </Link>
           <Link className="navigation_link" to="/bells">
             Розклад дзвоників
@@ -27,6 +27,9 @@ const Navigation = () => {
           </Link>
           <Link className="navigation_link" to="/books">
             Підручники
+          </Link>
+          <Link className="navigation_link" to="/contacts">
+            Контакти
           </Link>
         </div>
         <div className="start">

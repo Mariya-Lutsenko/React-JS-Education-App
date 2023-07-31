@@ -90,6 +90,7 @@ p {
 
 .back {
   background-image: url("../public/images/bg-back.webp");
+  background-blend-mode: multiply;
   background-size: cover;
   background-attachment: fixed;
   background-position: 25% 85%;
