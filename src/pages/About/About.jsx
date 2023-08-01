@@ -5,12 +5,19 @@ import Back from "../../components/Back/Back";
 const About = () => {
   const [click, setClick] = useState(false);
   const [aboutData, setAboutData] = useState(null);
+  const [showScrollButton, setShowScrollButton] = useState(false);
 
   const toggle = (index) => {
     if (click === index) {
       return setClick(null);
     }
     setClick(index);
+  };
+  const handleScrollToTop = () => {
+    const aboutSection = document.getElementById("about-section");
+    if (aboutSection) {
+      aboutSection.scrollIntoView({ behavior: "smooth" });
+    }
   };
 
   useEffect(() => {
@@ -26,6 +33,18 @@ const About = () => {
     fetchAboutData();
   }, []);
 
+  useEffect(() => {
+    const handleScrollButtonVisibility = () => {
+      setShowScrollButton(window.scrollY > 300);
+    };
+
+    window.addEventListener("scroll", handleScrollButtonVisibility);
+
+    return () => {
+      window.removeEventListener("scroll", handleScrollButtonVisibility);
+    };
+  }, []);
+
   const renderSteps = (steps) => {
     return (
       <ol>
@@ -39,7 +58,7 @@ const About = () => {
   return (
     <>
       <Back title="Як організувати онлайн-навчання" />
-      <section className="about">
+      <section className="about" id="about-section">
         <div className="container">
           {aboutData?.map((item, index) => (
             <div className="box" key={index}>
@@ -95,6 +114,11 @@ const About = () => {
           ))}
         </div>
       </section>
+      {showScrollButton && (
+        <button className="scroll-to-top" onClick={handleScrollToTop}>
+          <i className="fa fa-chevron-up"></i>
+        </button>
+      )}
     </>
   );
 };

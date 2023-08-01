@@ -62,6 +62,29 @@
   background-color: #3fb4e6;
   color: #fff;
 }
+
+.scroll-to-top {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 20px;
+  right: 20px;
+  background-color: #3fb4e6;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.scroll-to-top:focus {
+  outline: none;
+}
+.scroll-to-top i {
+  margin: 0;
+}
 /* .aboutFlex {
   display: flex;
   flex-direction: column;
