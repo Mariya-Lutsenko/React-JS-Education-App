@@ -1,6 +1,6 @@
 import React from "react";
 
-import Head from "./Head"
+import Head from "./Head";
 import Navigation from "./Navigation";
 import "./header.css";
 

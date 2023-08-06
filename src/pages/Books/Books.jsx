@@ -1,11 +1,11 @@
-import React, { useState, useEffect, useRef } from 'react'
-import Dropdown from '../../components/Dropdown/Dropdown'
-import Back from '../../components/Back/Back'
-import TableBooks from '../../components/TableBooks/TableBooks'
-import "./books.css"
+import React, { useState, useEffect, useRef } from "react";
+import Dropdown from "../../components/Dropdown/Dropdown";
+import Back from "../../components/Back/Back";
+import TableBooks from "../../components/TableBooks/TableBooks";
+import "./books.css";
 
 const Books = () => {
-    const [selectedClass, setSelectedClass] = useState("");
+  const [selectedClass, setSelectedClass] = useState("");
   const [booksData, setBooksData] = useState(null);
   const tableRef = useRef(null);
 
@@ -23,7 +23,7 @@ const Books = () => {
       try {
         const response = await fetch("/data/booksData.json");
         const data = await response.json();
-        console.log(data)
+        console.log(data);
         setBooksData(data);
       } catch (error) {
         console.error("Error fetching data:", error);
@@ -44,8 +44,7 @@ const Books = () => {
         <div className="container booksFlex">
           <div className="grid2">
             <div className="books_left">
-             
-            <img src="/images/books/books.jpg" alt="" />
+              <img src="/images/books/books.jpg" alt="" />
             </div>
             <div className="books_right">
               {options && (
@@ -65,7 +64,7 @@ const Books = () => {
         </div>
       </section>
     </>
-  )
-}
+  );
+};
 
-export default Books
+export default Books;

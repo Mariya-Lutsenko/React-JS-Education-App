@@ -2,7 +2,6 @@
   background-image: url("../../../../public/images/bg-home-4.webp");
   background-size: cover;
   background-blend-mode: multiply;
-  /* background-position: bottom; */
   background-attachment: fixed;
   position: absolute;
   top: 0;
@@ -35,9 +34,3 @@
     height: 0vh;
   }
 }
-
-/* @supports (background-image: url("../../../../public/images/bg-home-4.webp")) {
-  .hero {
-    background-image: url("../../../../public/images/bg-home-4.webp");
-  }
-} */

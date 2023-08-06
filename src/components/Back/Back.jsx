@@ -1,19 +1,17 @@
-import React from 'react'
+import React from "react";
 
-import Clouds from '../Clouds/Clouds';
+import Clouds from "../Clouds/Clouds";
 
-const Back = ({title}) => {
+const Back = ({ title }) => {
   return (
-  
     <>
-      <section className='back'>
-
+      <section className="back">
         <h1>{title}</h1>
-        <Clouds/>
+        <Clouds />
       </section>
       <div className="margin"></div>
     </>
-  )
-}
+  );
+};
 
-export default Back
+export default Back;

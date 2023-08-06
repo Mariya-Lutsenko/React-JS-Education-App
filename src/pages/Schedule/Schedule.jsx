@@ -34,7 +34,6 @@ const Schedule = () => {
   const handleClassChange = (selectedValue) => {
     setSelectedClass(selectedValue);
     setSelectedDay(Object.keys(scheduleData[selectedValue])[0]);
-  
   };
 
   const handleDayChange = (day) => {
@@ -44,8 +43,6 @@ const Schedule = () => {
   if (!scheduleData) {
     return <div></div>;
   }
-
-
 
   return (
     <>
@@ -66,7 +63,6 @@ const Schedule = () => {
                 selectedDay={selectedDay}
                 weekdays={Object.keys(scheduleData[selectedClass])}
                 onDayChange={handleDayChange}
-              
               />
               <TableSchedule
                 scheduleData={scheduleData}

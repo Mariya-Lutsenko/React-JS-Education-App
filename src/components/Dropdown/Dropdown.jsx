@@ -1,16 +1,20 @@
-import React, {useState} from 'react'
-import "./dropdown.css"
+import React, { useState } from "react";
+import "./dropdown.css";
 
 const Dropdown = ({ options, onChange, title }) => {
-    const [selectedOption, setSelectedOption] = useState('');
+  const [selectedOption, setSelectedOption] = useState("");
 
   const handleSelectChange = (event) => {
     const selectedValue = event.target.value;
     setSelectedOption(selectedValue);
-    onChange(selectedValue); 
+    onChange(selectedValue);
   };
   return (
-    <select value={selectedOption} onChange={handleSelectChange} className='dropdown'>
+    <select
+      value={selectedOption}
+      onChange={handleSelectChange}
+      className="dropdown"
+    >
       <option value="">{title}</option>
       {options.map((option) => (
         <option key={option.value} value={option.value}>
@@ -18,7 +22,7 @@ const Dropdown = ({ options, onChange, title }) => {
         </option>
       ))}
     </select>
-  )
-}
+  );
+};
 
-export default Dropdown
+export default Dropdown;

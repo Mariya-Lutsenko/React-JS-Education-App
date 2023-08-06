@@ -53,7 +53,7 @@ const About = () => {
         ))}
       </ol>
     );
-  }; 
+  };
 
   return (
     <>
@@ -78,36 +78,41 @@ const About = () => {
               </button>
               {click === index ? (
                 <div className="contentWrapper">
-                <div className="text">
-                {item.subtitle && <p>{item.subtitle}</p>}
-                  {item.steps && item.steps.length > 0 && renderSteps(item.steps)}
-                  {item.link && item.link.length > 0 && ( 
-                    <div>
-                      {item.link.map((link, linkIndex) => (
-                        <p key={linkIndex}>
-                          
-                          <a href={link} target="_blank" rel="noopener noreferrer">
-                            Переглянути детально
-                          </a>
-                        </p>
+                  <div className="text">
+                    {item.subtitle && <p>{item.subtitle}</p>}
+                    {item.steps &&
+                      item.steps.length > 0 &&
+                      renderSteps(item.steps)}
+                    {item.link && item.link.length > 0 && (
+                      <div>
+                        {item.link.map((link, linkIndex) => (
+                          <p key={linkIndex}>
+                            <a
+                              href={link}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Переглянути детально
+                            </a>
+                          </p>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                  {item.video && item.video.length > 0 && (
+                    <div className="video-container">
+                      {item.video.map((videoLink, videoIndex) => (
+                        <iframe
+                          key={videoIndex}
+                          src={videoLink}
+                          title="YouTube video player"
+                          frameborder="0"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                          allowfullscreen
+                        ></iframe>
                       ))}
                     </div>
                   )}
-                </div>
-                {item.video && item.video.length > 0 && (
-                <div className="video-container">
-                  {item.video.map((videoLink, videoIndex) => (
-                      <iframe
-                        key={videoIndex}
-                        src={videoLink}
-                        title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen
-                      ></iframe>
-                    ))}
-                  </div>
-                )}
                 </div>
               ) : null}
             </div>

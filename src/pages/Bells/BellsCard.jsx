@@ -29,7 +29,6 @@ const BellsCard = () => {
             <img src="/images/about.webp" alt="" />
           </div>
           <div className="right row">
-          
             <div className="items">
               {lessonTimeData.map(({ id, cover, title }) => (
                 <Link

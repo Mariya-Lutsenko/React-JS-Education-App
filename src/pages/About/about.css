@@ -45,9 +45,6 @@
 }
 
 .video-container iframe {
-  /* position: absolute; */
-  /* top: 0;
-  left: 0; */
   width: 560px;
   height: 315px;
   margin-bottom: 20px;
@@ -85,15 +82,8 @@
 .scroll-to-top i {
   margin: 0;
 }
-/* .aboutFlex {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-} */
+
 @media screen and (max-width: 768px) {
-  /* .schedule {
-      margin-top: 30%;
-    } */
   .about .container {
     max-width: 90%;
     border-radius: 5px;
@@ -105,9 +95,6 @@
     justify-content: center;
   }
   .video-container iframe {
-    /* position: absolute; */
-    /* top: 0;
-    left: 0; */
     width: 380px;
     height: 218px;
     margin-bottom: 20px;

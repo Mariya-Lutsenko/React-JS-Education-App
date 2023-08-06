@@ -13,10 +13,9 @@ const App = () => {
   return (
     <d>
       <Suspense fallback={<Loader />}>
-      <Header />
-      <UserRoutes />
-      {!isHomePage && <Footer />}
-
+        <Header />
+        <UserRoutes />
+        {!isHomePage && <Footer />}
       </Suspense>
     </d>
   );

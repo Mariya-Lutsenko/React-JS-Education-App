@@ -5,23 +5,23 @@
     "subjects": [
       {
         "name": "Математика",
-        "author": "Скворцова С.О.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/07_Matematyka_1kl/Matematyka_pidruchnyk%20dlia%201%20klasu%20ZZSO%20(Skvortsova%20S.%20O.,%20Onopriienko%20O.%20V.)%20.pdf"
+        "author": "",
+        "link": ""
       },
       {
         "name": "Англійська мова",
-        "author": "Карпюк О.Л.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/03_Inozemnamova_english_1kl/KarpyukOD/English_1_2018_Aston.pdf"
+        "author": "",
+        "link": ""
       },
       {
         "name": "Українська мова. Буквар І частина",
-        "author": "Вашуленко М.С.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/01_Ukr_mova_Bukvar_1kl/VashulenkoMS/Bukvar_1kl_ukr.pdf"
+        "author": "",
+        "link": ""
       },
       {
         "name": "Українська мова. Буквар ІI частина",
-        "author": "Вашуленко М.С.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/01_Ukr_mova_Bukvar_1kl/VashulenkoMS/BUKVAR_1-KL_VASH_CH-2_.pdf"
+        "author": "",
+        "link": ""
       }
     ]
   },
@@ -66,9 +66,44 @@
     "class": "3 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Українська мова та читання І частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/1-Ukr-mova-3kl/Ukr-mova-Vashulenko/Ukr-mova-3%20kl-Vashulenko-ch1.pdf"
+      },
+      {
+        "name": "Українська мова та читання ІІ частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/1-Ukr-mova-3kl/Ukr-mova-Vashulenko/Ukr-mova-3kl-Vashulenko-ch2.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Губарєва С.С., Павліченко О.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/3-English-3kl/English-3kl-Hubareva-Pavlichenko/English-3kl-Hubarieva-Pavlichenko.pdf"
+      },
+      {
+        "name": "Математика І частина",
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/7-Matematyka-3kl/mat-skvortsova/Matematyka-3kl-%D0%A1h1-Skvortsova-Onopriienko.pdf"
+      },
+      {
+        "name": "Математика ІІ частина",
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/7-Matematyka-3kl/mat-skvortsova/Matematyka-3kl-%D0%A1h2-Skvortsova-Onopriienko.pdf"
+      },
+      {
+        "name": "Я досліджую світ І частина",
+        "author": "Бібік Н.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/8-YDS-3kl/YDS-3kl-Bibik/YDS-3kl-Ch1-Bibik.pdf"
+      },
+      {
+        "name": "Я досліджую світ ІІ частина",
+        "author": "Корнієнко М.М., Крамаровська С.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/8-YDS-3kl/YDS-3kl-Bibik/YDS-3kl-%D0%A1h2-Korniienko.pdf"
+      },
+      {
+        "name": "Мистецтво",
+        "author": "Масол Л.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-3-klas-2020/9-Mystetstvo-3kl/Mystetstvo-3kl-Masol.pdf"
       }
     ]
   },
@@ -76,6 +111,41 @@
     "id": 4,
     "class": "4 клас",
     "subjects": [
+      {
+        "name": "Українська мова та читання, І частина",
+        "author": "Вашуленко М. С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/1-Ukr-mova-chytannya-4kl/Ukr-mova-4kl-Vashulenko/4kl-Osvita-Ukr-mova-ta-chyt-Ch1-Vashulenko.pdf"
+      },
+      {
+        "name": "Українська мова та читання, ІІ частина",
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/1-Ukr-mova-chytannya-4kl/Ukr-mova-4kl-Vashulenko/4kl-Osvita-Ukr-mova-ta-chyt-Ch2-Vashulenko.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Губарєва С.С., Павліченко О.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/10-English-4kl/English-4kl-Hubareva-Pavlichenko/English-4kl-Hubarieva-Pavlichenko.pdf"
+      },
+      {
+        "name": "Математика, І частина",
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/14-Matematyka-4kl/Matematyka-4kl-Skvortsova-Onopriyenko/Matymatyka-4kl-%D0%A1h1-Skvortsova.pdf"
+      },
+      {
+        "name": "Математика, ІІ частина",
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/14-Matematyka-4kl/Matematyka-4kl-Skvortsova-Onopriyenko/Matymatyka-4kl-%D0%A1h2-Skvortsova.pdf"
+      },
+      {
+        "name": "",
+        "author": "",
+        "link": ""
+      },
+      {
+        "name": "",
+        "author": "",
+        "link": ""
+      },
       {
         "name": "",
         "author": "",

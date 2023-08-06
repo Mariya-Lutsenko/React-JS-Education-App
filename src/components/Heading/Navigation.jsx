@@ -8,8 +8,10 @@ const Navigation = () => {
   return (
     <header>
       <nav className="header_nav">
-        <div className={click? "mobile-nav" : "wrapper_link"} onClick={()=>setClick(false)}>
-        {/* <div className="wrapper_link"> */}
+        <div
+          className={click ? "mobile-nav" : "wrapper_link"}
+          onClick={() => setClick(false)}
+        >
           <Link className="navigation_link" to="/">
             Головна
           </Link>
@@ -33,15 +35,20 @@ const Navigation = () => {
           </Link>
         </div>
         <div className="start">
-          <a href="https://testportal.gov.ua/osnovne-pro-nmt-2023/" className="button_zno">ГОТУЄМОСЬ ДО ЗНО</a>
+          <a
+            href="https://testportal.gov.ua/osnovne-pro-nmt-2023/"
+            className="button_zno"
+          >
+            ГОТУЄМОСЬ ДО ЗНО
+          </a>
         </div>
-        <button className="toggle" onClick={()=>setClick(!click)}>
-        {click ? 
-          <i className="fa fa-times"> </i>
-         : 
-          <i className="fa fa-bars"></i>
-        }
-      </button>
+        <button className="toggle" onClick={() => setClick(!click)}>
+          {click ? (
+            <i className="fa fa-times"> </i>
+          ) : (
+            <i className="fa fa-bars"></i>
+          )}
+        </button>
       </nav>
     </header>
   );
