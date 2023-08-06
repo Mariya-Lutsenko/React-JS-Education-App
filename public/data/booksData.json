@@ -137,19 +137,24 @@
         "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/14-Matematyka-4kl/Matematyka-4kl-Skvortsova-Onopriyenko/Matymatyka-4kl-%D0%A1h2-Skvortsova.pdf"
       },
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Я досліджую світ І частина",
+        "author": "Бібік Н.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/15-YDS-4kl/YDS-4kl-Bibik-Bondarchuk/YDS-4kl-Ch1-Bibik-Bondarchuk.pdf"
       },
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Я досліджую світ ІІ частина",
+        "author": "Бібік Н.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/15-YDS-4kl/YDS-4kl-Bibik-Bondarchuk/YDS-4kl-Ch2-Bibik-Bondarchuk.pdf"
       },
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Інформатика",
+        "author": "Корнієнко М.М., Крамаровська С.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/16-Informatyka-4kl/Informatyka-4kl-Korniienko-Kramarovska-Zaretska.pdf"
+      },
+      {
+        "name": "Мистецтво",
+        "author": "Масол Л.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-4-klas-2021/17-Mystetstvo-4kl/Masol-Mystetstvo-4kl.pdf"
       }
     ]
   },
@@ -158,9 +163,54 @@
     "class": "5 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Українська мова",
+        "author": "Заболотний О. В.",
+        "link": "https://www.geneza.ua/sites/default/files/ebooks/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B2%D0%B0_5%D0%BA%D0%BB_%D0%93%D0%B5%D0%BD%D0%B5%D0%B7%D0%B0.pdf"
+      },
+      {
+        "name": "Українська література",
+        "author": "Яценко Т.О.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_ukrlit_yacenko_2022.pdf"
+      },
+      {
+        "name": "Зарубіжна література",
+        "author": "Ніколенко О.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_zarlit_nikolenko_2022.pdf"
+      },
+      {
+        "name": "Математика",
+        "author": "Мерзляк А.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_matematyka_merzlyak_2022.pdf"
+      },
+      {
+        "name": "Пізнаємо природу",
+        "author": "Коршевнюк Т.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_piznaemo_prirodu_korshevniuk_2022.pdf"
+      },
+      {
+        "name": "Інформатика",
+        "author": "Ривкінд Й.",
+        "link": "https://informatik.pp.ua/component/jdownloads/?task=download.send&id=135&catid=6&m=0&Itemid=101"
+      },
+      {
+        "name": "Здоров'я безпека та добробут",
+        "author": "Воронцова Т.В.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_zdorovia_voroncova_2022.pdf"
+      },
+      {
+        "name": "Етика",
+        "author": "Мартинюк О.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_etyka_martyniuk_2022.pdf"
+      },
+      {
+        "name": "Досліджуємо історію і суспільство",
+        "author": "Пометун О.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_doslid_istoriyi_pometun_2022.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Джоанна Коста",
+        "link": "https://pidruchnyk.com.ua/uploads/book/5_english_kosta_2022.pdf"
       }
     ]
   },
@@ -169,9 +219,54 @@
     "class": "6 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Інформатика.",
+        "author": "Бондаренко О.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/03-informatyka-6-klas/informatika-pidruchnyk-dlia-6-klasu-zzso-bondarenko-o-o-lastovetskii-v-v-pilipchuk-o-p-shestopalov-ye-a.pdf"
+      },
+      {
+        "name": "Основи здоров'я",
+        "author": "Бех І.Д.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/06-osnovy-zdorovya-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/Osnovy-zdor-6kl.pdf"
+      },
+      {
+        "name": "Українська мова",
+        "author": "Заболотний О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/01-ukra-mova-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/Ukr-mova-6kl-Zabolotny-2020.pdf"
+      },
+      {
+        "name": "Українська література",
+        "author": "Авраменко О.М.",
+        "link": "https://files.pidruchnyk.com.ua/uploads/book/Ukrliteratura_6klas_2014_Avramenko.pdf"
+      },
+      {
+        "name": "Зарубіжна література",
+        "author": "Волощук Є.В.",
+        "link": "https://files.pidruchnyk.com.ua/uploads/book/Svitova_6klas_Voloshhuk_2014.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Карпюк О.Д.",
+        "link": "https://files.pidruchnyk.com.ua/uploads/book/6_am_kar_ua_2014.pdf"
+      },
+      {
+        "name": "Географія",
+        "author": "Бойко В.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/05-heohrafiya-dlya-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/6kl-Geografy-Bojko-2020.pdf"
+      },
+      {
+        "name": "Біологія",
+        "author": "Костиков І.Ю.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/04-biolohiya-dlya-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/6kl-Biology-2020.pdf"
+      },
+      {
+        "name": "Математика",
+        "author": "Тарасенкова Н.А.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/03-matem-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/6kl-MATEMATYKA-Tarasenkova.pdf"
+      },
+      {
+        "name": "Всесвітня історія. Історія України",
+        "author": "Бандровський О.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/6-klas-vsesvitnja-istorija-bandrovskij-2019.pdf"
       }
     ]
   },
@@ -180,9 +275,74 @@
     "class": "7 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Українська мова",
+        "author": "Заболотний О.В.",
+        "link": "https://files.pidruchnyk.com.ua/uploads/book/Ukrmova_7klas_Zabolotnyj_2016.pdf"
+      },
+      {
+        "name": "Українська література",
+        "author": "Коваленко Л.Т.",
+        "link": "https://files.pidruchnyk.com.ua/uploads/book/Ukrlyteratura_7klas_Kovalenko.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Карпюк О.Д.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/6-English-7kl/Anhliyska-mova-7-rik-navchannya-7-klas-Karpyuk.pdf"
+      },
+      {
+        "name": "Хімія",
+        "author": "Григорович О.В.",
+        "link": "http://interactive.ranok.com.ua/upload/file/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D0%B8%202015%20%D1%83%D0%BA%D1%80/xmya-pdrychnik-dlya-7-klasy.pdf"
+      },
+      {
+        "name": "Інформатика",
+        "author": "Ривкінд Й.Я.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/13-Informatyka-7-klas/Informatyka-7-klas-Ryvkind.pdf"
+      },
+      {
+        "name": "Основи здоров'я",
+        "author": "Бойченко Т.С.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/Osnovy_zdorovja_7klas_Bojchenko.pdf"
+      },
+      {
+        "name": "Алгебра",
+        "author": "Мерзляк А.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/11-algebra-7kl/Alhebra-7-klas-Merzlyak.pdf"
+      },
+      {
+        "name": "Геометрія",
+        "author": "Мерзляк А.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/12-geometry-7kl/Hemetriya-7-klas-Merzlyak.pdf"
+      },
+      {
+        "name": "Зарубіжна література",
+        "author": "Волощук Є.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/10-zarub-lit-7kl/Zarubizhna-literatura-7-klas-Voloshchuk.pdf"
+      },
+      {
+        "name": "Історія України",
+        "author": "Власов В.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/4-Istoria-Ukraine-7-klas/Istoriya-Ukrayiny-7-klas-Vlasov.pdf"
+      },
+      {
+        "name": "Всесвітня історія",
+        "author": "Щупак І.Я.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/5-Vsesvitnya-istoria-7-klas/7-kl-Istoriya-vsesvit.pdf"
+      },
+      {
+        "name": "Географія",
+        "author": "Кобернік С.П.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/Geografia_7klas_kobernik_2015.pdf"
+      },
+      {
+        "name": "Фізика",
+        "author": "Бар'яхтар В.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/16-fizika-7kl/Fizyka-7-klas-Baryakhtar.pdf"
+      },
+      {
+        "name": "Біологія",
+        "author": "Остапченко Л.І.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-7-klas-2020/14-bilology-7kl/Biolohiya-7-klas-Ostapchenko.pdf"
       }
     ]
   },
@@ -191,9 +351,74 @@
     "class": "8 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Українська мова",
+        "author": "Заболотний О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/1-Ukr-mova-8kl/Ukr-mova-8kl-Zabolotnyy.pdf"
+      },
+      {
+        "name": "Українська література",
+        "author": "Авраменко О.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/2-Ukr-liter-8kl/Ukr-lit-pogl-8kl-Gramota.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Карпюк О.Д.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/6-english-8kl/Anhliyska-8-rik-nav-8kl-Karpyuk.pdf"
+      },
+      {
+        "name": "Хімія",
+        "author": "Григорович О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/13-khimiya-8kl/Khimiia-8kl-Grygorovych.pdf"
+      },
+      {
+        "name": "Інформатика",
+        "author": "Ривкінд Й.Я.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/11-informatyka-8kl/Informatyka-8kl-Ryvkind.pdf"
+      },
+      {
+        "name": "Основи здоров'я",
+        "author": "Бойченко Т.Є.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-osnovy-zdorovya-bojchenko-2021.pdf"
+      },
+      {
+        "name": "Алгебра",
+        "author": "Мерзляк А.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/7-algebra-8kl/Merzlyak-Algebra-8kl.pdf"
+      },
+      {
+        "name": "Геометрія",
+        "author": "Мерзляк А.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/8-geometry-8kl/Gymnasia-Merzlyak-Geometry-8kl.pdf"
+      },
+      {
+        "name": "Зарубіжна література",
+        "author": "Волощук Є.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-svitova-literatura-voloschuk-2021.pdf"
+      },
+      {
+        "name": "Історія України",
+        "author": "Власов В.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/4-istoria-Ukr-8kl/Istoria-Ukrainy-8kl-Vlasov.pdf"
+      },
+      {
+        "name": "Всесвітня історія",
+        "author": "Щупак І.Я.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/5-vsesv-istoria-8kl/Vsesvitnya-sstoriya-8kl-Shchupak.pdf"
+      },
+      {
+        "name": "Географія",
+        "author": "Коберник С.П.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-geohrafiya-kobernik-2021.pdf"
+      },
+      {
+        "name": "Фізика",
+        "author": "Бар'яхтар В.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/12-fizyka-8kl/Fizyka-8kl-Baryakhtar.pdf"
+      },
+      {
+        "name": "Біологія",
+        "author": "Остапченко Л., Матяш Н.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-biologiya-matyash-2021.pdf"
       }
     ]
   },
@@ -202,9 +427,79 @@
     "class": "9 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Українська мова",
+        "author": "Заболотний О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/01-ukrainska-mova-9-klas/zabolotnyy-umukr-p-9ukr-087-16-s.pdf"
+      },
+      {
+        "name": "Українська література",
+        "author": "Авраменко О.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/02-ukrainska-literatura-9-klas/gramota-ukrain-literatura-9-kl-avram-2017.pdf"
+      },
+      {
+        "name": "Інформатика",
+        "author": "Ривкінд Й.",
+        "link": "https://drive.google.com/file/d/1Q2dCTWULCohx2EX7Ojs7pf4Q2Dtkuzwy/view"
+      },
+      {
+        "name": "Основи здоров'я",
+        "author": "Тагліна О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/13-osnovy-zdorov%60ya-9-klas/osnovy-zdorov%E2%80%99ya-pidruchnyk-dlya-9-klasu-zagalnoosvitnih-navchalnyh-zakladiv-taglina-o-v.pdf"
+      },
+      {
+        "name": "Зарубіжна література",
+        "author": "Волощук Є.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/16-zarubizhna-literatura-9-klas/voloshuk-zl-p-9ukr-084-16-s.pdf"
+      },
+      {
+        "name": "Історія України",
+        "author": "Гісем О.В. Мартинюк О.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/03-istoriya-ukrainy-9-klas/istoriya-ukrainy-pidruchnyk-dlya-9-klasu-zagalnoosvitnih-navchalnyh-zakladiv-gisem-o-v-martynyuk-o-o.pdf"
+      },
+      {
+        "name": "Всесвітня історія",
+        "author": "Гісем О.В. Мартинюк О.О.",
+        "link": "http://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/04-vsesvitnya-istoriya-9-klas/vsesvitnya-istoriya-pidruchnyk-dlya-9-klasu-zagalnoosvitnih-navchalnyh-zakladiv-gisem-o-v-martynyuk-o-o.pdf"
+      },
+      {
+        "name": "Основи правознавства",
+        "author": "Святокум О.Є.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/15-osnovy-pravoznavstva-9-klas/osnovy-pravoznavstva-pidruchnyk-dlya-9-klasu-zagalnoosvitnih-navchalnyh-zakladiv-svyatokum-o-je-svyatokum-i-o.pdf"
+      },
+      {
+        "name": "Алгебра",
+        "author": "Мерзляк А.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/05-algebra-9-klas/gymnasia-merzlyak-algebra-9-klas-poglyb.pdf"
+      },
+      {
+        "name": "Геометрія",
+        "author": "Єршова А.П.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/05-algebra-9-klas/gymnasia-merzlyak-algebra-9-klas-poglyb.pdf"
+      },
+      {
+        "name": "Біологія",
+        "author": "Остапченко Л.І.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/12-biologiya-9-klas/ostapchenko-bio-p-9ukr-077-16-s.pdf"
+      },
+      {
+        "name": "Географія",
+        "author": "Кобернік С.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/11-geografiya-9-klas/abetka-kobernik-geografia-9-klass.pdf"
+      },
+      {
+        "name": "Хімія",
+        "author": "Григорович О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/09-himiya-9-klas/himiya-pidruchnyk-dlya-9-klasu-zagalnoosvitnih-navchalnyh-zakladiv-grygorovych-o-v.pdf"
+      },
+      {
+        "name": "Фізика",
+        "author": "Бар'яхтар В.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/10-fizyka-9-klas/Fizika-baryakhtar-9kl.pdf"
+      },
+      {
+        "name": "Мистецтво",
+        "author": "Масол Л.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-9-klas/14-mystectvo-9-klas/mystectvo-9-kl-klass.pdf"
       }
     ]
   },
@@ -224,9 +519,69 @@
     "class": "11 клас",
     "subjects": [
       {
-        "name": "",
-        "author": "",
-        "link": ""
+        "name": "Українська мова",
+        "author": "Караман С.О",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/01-ukrainska-mova-11-klas/ukrainska-mova-profilnii-riven-pidruchnyk-dlia-11-klasu-zzso-karaman-s-goroshkina-o-karaman-o-popova-l.pdf"
+      },
+      {
+        "name": "Українська література",
+        "author": "Авраменко О.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/02-ukrainska-literatura-11-klas/avramenko-ukr-lit-11-.pdf"
+      },
+      {
+        "name": "Англійська мова",
+        "author": "Буренко В.М.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/09-inozemna-mova-angliyska-mova-11-klas/anhliiska-mova-11-i-rik-navchannia-riven-standartu-pidruchnyk-dlia-11-klasu-zzsoburenko-v-m.pdf"
+      },
+      {
+        "name": "Астрономія",
+        "author": "Пришляк М.П.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/18-fizyka-ta-astronomiya-11-klas/astronomiia-riven-standartu-za-navchalnoiu-prohramoiu-avtorskoho-kolektyvu-pid-kerivnytstvom-yatskiva-ya-s-pidruchny-1-1.pdf"
+      },
+      {
+        "name": "Фізика",
+        "author": "Бар'яхтар В.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/18-fizyka-ta-astronomiya-11-klas/fizyka-riven-standartu-pidruchnyk-dlia-11-klasu-zzso-za-red-bariakhtara-v-h-dovhoho-s-o.pdf"
+      },
+      {
+        "name": "Біологія і екологія",
+        "author": "Остапченко Л.І.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/16-biologiya-i-ekologiya-11-klas/ostapchenko-bioekost-p-11ukr-113-18-s.pdf"
+      },
+      {
+        "name": "Зарубіжна література",
+        "author": "Ісаєва О.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/03-zarubizhna-literatura-11-klas/Zarubizhna_lit_Standart.pdf"
+      },
+      {
+        "name": "Хімія",
+        "author": "Григорович О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/20-himiya-11-klas/himiya-riven-standartu-pidruchnyk-dlia-11-klasu-zzso-grigorovich-o-v.pdf"
+      },
+      {
+        "name": "Математика",
+        "author": "Мерзляк А.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/13-matematyka-11-klas/merzlyak-ag-matematyka-algebra-i-poch-analizu-ta-geometriya-riven-standartu-11-kl.pdf"
+      },
+      {
+        "name": "Історія України",
+        "author": "Гісем О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/04-istoriya-ukrainy-11-klas/istoriia-ukrainy-riven-standartu-pidruchnyk-dlia-11-klasu-zzso-o-v-gisem-o-o-martyniuk.pdf"
+      },
+      {
+        "name": "Всесвітня історія",
+        "author": "Гісем О.В.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/05-vsesvitnya-istoriya-11-klas/vsesvitnia-istoriia-riven-standartu-pidruchnyk-dlia-11-klasu-zzso-o-v-gisem-o-o-martyniuk.pdf"
+      },
+      {
+        "name": "Екологія",
+        "author": "Царик Л.П.",
+        "link": "https://files.pidruchnyk.com.ua/uploads/book/Ekologija_11klas_Caryk.pdf"
+      },
+      {
+        "name": "Географія",
+        "author": "Кобернік С.Г.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-11-klas-2019/17-geografiya-11-klas/Geo-11kl-Kobernyk-2.pdf"
       }
     ]
   }
