@@ -17,6 +17,7 @@ const Courses = () => {
     value: classItem.class,
     label: classItem.class,
   }));
+  console.log(coursesData)
 
   useEffect(() => {
     const fetchCoursesData = async () => {
