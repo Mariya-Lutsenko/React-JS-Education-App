@@ -184,7 +184,7 @@
       },
       {
         "name": "Пізнаємо природу",
-        "author": "Коршевнюк Т.",
+        "author": "Коршевнюк Т.В.",
         "link": "https://pidruchnyk.com.ua/uploads/book/5_piznaemo_prirodu_korshevniuk_2022.pdf"
       },
       {
@@ -219,54 +219,69 @@
     "class": "6 клас",
     "subjects": [
       {
-        "name": "Інформатика.",
-        "author": "Бондаренко О.О.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/03-informatyka-6-klas/informatika-pidruchnyk-dlia-6-klasu-zzso-bondarenko-o-o-lastovetskii-v-v-pilipchuk-o-p-shestopalov-ye-a.pdf"
+        "name": "Досліджуємо історію і суспільство",
+        "author": "Пометун О.І.",
+        "link": "https://drive.google.com/file/d/10E0NLjcIqxCEds09-2y3TPbxTBen7LHd/view?usp=share_link"
       },
       {
-        "name": "Основи здоров'я",
-        "author": "Бех І.Д.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/06-osnovy-zdorovya-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/Osnovy-zdor-6kl.pdf"
+        "name": "Інформатика",
+        "author": "Ривкінд Й.Я.",
+        "link": "https://drive.google.com/file/d/1zfVzOx6PB6FswxjTVIP2aHEwnIhEnXyt/view"
       },
       {
         "name": "Українська мова",
         "author": "Заболотний О.В.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/01-ukra-mova-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/Ukr-mova-6kl-Zabolotny-2020.pdf"
+        "link": "https://drive.google.com/file/d/1sSmkjdB2ktiQhDrx3sVNKDiR23_fBKmC/view?usp=share_link"
       },
       {
         "name": "Українська література",
-        "author": "Авраменко О.М.",
-        "link": "https://files.pidruchnyk.com.ua/uploads/book/Ukrliteratura_6klas_2014_Avramenko.pdf"
+        "author": "Яценко Т.О.",
+        "link": "https://drive.google.com/file/d/16drfEP-4qvj0zPZrTG-88ueHYXf10m8h/view"
+      },
+      {
+        "name": "Технології",
+        "author": "Ходзицька І.Ю.",
+        "link": "https://drive.google.com/file/d/14zcQ4kjOlXiAVYdTtzrYH5J787yQrYMF/view?usp=share_link"
       },
       {
         "name": "Зарубіжна література",
-        "author": "Волощук Є.В.",
-        "link": "https://files.pidruchnyk.com.ua/uploads/book/Svitova_6klas_Voloshhuk_2014.pdf"
+        "author": "Ніколенко О.М.",
+        "link": "https://academia-pc.com.ua/wp-content/uploads/2023/03/Nikolenko.pdf"
       },
       {
         "name": "Англійська мова",
-        "author": "Карпюк О.Д.",
-        "link": "https://files.pidruchnyk.com.ua/uploads/book/6_am_kar_ua_2014.pdf"
+        "author": "Джоанна Коста",
+        "link": "https://drive.google.com/file/d/1OpmhxgWlhxrYsFYequOx_73MgUU0kIfB/view?usp=share_link"
       },
       {
         "name": "Географія",
-        "author": "Бойко В.М.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/05-heohrafiya-dlya-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/6kl-Geografy-Bojko-2020.pdf"
+        "author": "Кобернік С.Г.",
+        "link": "https://drive.google.com/file/d/1Om2pBDYGS1P4jp8-t62SWQbMWKqBOTFK/view"
       },
       {
-        "name": "Біологія",
-        "author": "Костиков І.Ю.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/04-biolohiya-dlya-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/6kl-Biology-2020.pdf"
+        "name": "Мистецтво",
+        "author": "Масол Л.М.",
+        "link": "https://drive.google.com/file/d/1MgvZmV9KUxjBfMNSqS6zOj1g8YNsCcx5/view?usp=share_link"
       },
       {
         "name": "Математика",
-        "author": "Тарасенкова Н.А.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-6-klas-2019/03-matem-dlya-zakladiv-zagalnoi-serednoi-osvity-6-klas/6kl-MATEMATYKA-Tarasenkova.pdf"
+        "author": "Мерзляк А.Г.",
+        "link": "https://shkola.in.ua/2812-matematyka-6-klas-merzliak-2023.html"
       },
       {
-        "name": "Всесвітня історія. Історія України",
-        "author": "Бандровський О.",
-        "link": "https://pidruchnyk.com.ua/uploads/book/6-klas-vsesvitnja-istorija-bandrovskij-2019.pdf"
+        "name": "Етика",
+        "author": "Мартинюк О.О.",
+        "link": "https://drive.google.com/file/d/1BZoWkoDs9H75u86A1LM2vvRwKifTd6by/view"
+      },
+      {
+        "name": "Здоров'я безпека та добробут",
+        "author": "Воронцова Т.В.",
+        "link": "https://drive.google.com/file/d/10tMWteYbsM0SbFbqZSrFWdLwD7NkXVhc/view"
+      },
+      {
+        "name": "Пізнаємо природу",
+        "author": "Коршевнюк Т.В.",
+        "link": "https://drive.google.com/file/d/1wm4QZ6aASM5oApGBX2GubFX0It4rXX7n/view?usp=share_link"
       }
     ]
   },
