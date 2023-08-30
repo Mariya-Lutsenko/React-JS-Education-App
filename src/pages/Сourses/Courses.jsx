@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import Dropdown from "../../components/Dropdown/Dropdown";
 import TableCourses from "../../components/TableCourses/TableCourses";
+import TableConference from "../../components/TableConference/TableConference";
 import Back from "../../components/Back/Back";
 import "./courses.css";
 
@@ -17,13 +18,13 @@ const Courses = () => {
     value: classItem.class,
     label: classItem.class,
   }));
-  console.log(coursesData)
 
   useEffect(() => {
     const fetchCoursesData = async () => {
       try {
         const response = await fetch("/data/coursesData.json");
         const data = await response.json();
+        console.log(data);
         setCoursesData(data);
       } catch (error) {
         console.error("Error fetching data:", error);
@@ -62,6 +63,8 @@ const Courses = () => {
             selectedClass={selectedClass}
             data={coursesData || []}
           />
+          <TableConference  selectedClass={selectedClass}
+            data={coursesData || []}/>
         </div>
       </section>
     </>

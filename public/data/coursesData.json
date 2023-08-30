@@ -5,39 +5,66 @@
     "subjects": [
       {
         "name": "Українська мова. Навчання грамоти",
-        "code": "",
-        "teacher": "",
-        "email": ""
+        "code": "rt4y137",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
       },
       {
         "name": "Іноземна мова (англійська)",
-        "code": "",
-        "teacher": "",
-        "email": ""
+        "code": "Завдання на платформі Human",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "http://meet.google.com/xkr-grve-vbb",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
-        "code": "",
-        "teacher": "",
-        "email": ""
+        "code": "rt4y137",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
       },
       {
         "name": "Я досліджую світ",
-        "code": "",
-        "teacher": "",
-        "email": ""
+        "code": "rt4y137",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
+      },
+      {
+        "name": "Дизайн і технології",
+        "code": "rt4y137",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
       },
       {
         "name": "Мистецтво",
-        "code": "",
-        "teacher": "",
-        "email": ""
+        "code": "x7rmat4",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
-        "code": "",
-        "teacher": "",
-        "email": ""
+        "code": "rt4y137",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5569523014?pwd=S1crSEtFZ3ZpdG1oZ3J1MnpWeFBxQT09",
+        "identifier": "556 952 3014",
+        "access": "460969"
       }
     ]
   },
@@ -49,37 +76,55 @@
         "name": "Українська мова. Навчання грамоти",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -91,55 +136,82 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Читання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Дизайн і технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -151,55 +223,82 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Читання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Дизайн і технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -211,55 +310,82 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Літературне читання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Дизайн і технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -271,55 +397,82 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Літературне читання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Дизайн і технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -331,55 +484,82 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Літературне читання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Дизайн і технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -391,55 +571,82 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Літературне читання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Я досліджую світ",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Дизайн і технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -451,85 +658,127 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Пізнаємо природу»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Етика (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Вступ до історії України та громадянської освіти",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -541,85 +790,127 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Пізнаємо природу»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Етика (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Вступ до історії України та громадянської освіти",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -631,85 +922,127 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Пізнаємо природу»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Етика (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Вступ до історії України та громадянської освіти",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -721,91 +1054,136 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Пізнаємо природу»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Етика (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України. Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -817,91 +1195,136 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Математика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Пізнаємо природу»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Етика (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України. Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -913,115 +1336,172 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Трудове навчання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи здоров’я",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фінансова грамотність. Фінансова культура (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1033,115 +1513,172 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Трудове навчання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Образотворче мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи здоров’я",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фінансова грамотність. Фінансова культура (курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1153,115 +1690,172 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Трудове навчання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи здоров’я",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фінансова грамотність. Прикладні фінанси(курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Харківщинознавство (курс  за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1273,115 +1867,172 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Трудове навчання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи здоров’я",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фінансова грамотність. Прикладні фінанси(курс за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Харківщинознавство (курс  за вибором)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1393,109 +2044,163 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи правознавства",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Трудове навчання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи здоров’я",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1507,109 +2212,163 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи правознавства",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Трудове навчання",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Основи здоров’я",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1621,103 +2380,154 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Громадянська освіта",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія і екологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Захист України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1729,103 +2539,154 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Громадянська освіта",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія і екологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Захист України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1837,103 +2698,154 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія і екологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Астрономія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Захист України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -1945,103 +2857,154 @@
         "name": "Українська мова",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Українська література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Зарубіжна література",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Історія України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Всесвітня історія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Алгебра",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Геометрія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Географія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Біологія і екологія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Астрономія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Хімія",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Інформатика",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Мистецтво",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Фізична культура",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Захист України",
         "code": "",
         "teacher": "",
-        "email": ""
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   }

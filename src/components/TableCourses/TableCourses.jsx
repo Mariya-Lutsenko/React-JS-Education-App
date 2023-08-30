@@ -26,7 +26,7 @@ const TableCourses = ({ data, selectedClass, tableRef }) => {
       </thead>
       <tbody>
         {filteredData.subjects.map((subject) => (
-          <tr className="tableCourses_tr" key={subject.code}>
+          <tr className="tableCourses_tr" key={subject.name}>
             <td className="tableCourses_td">{subject.name}</td>
             <td className="tableCourses_td">{subject.code}</td>
             <td className="tableCourses_td">{subject.teacher}</td>
