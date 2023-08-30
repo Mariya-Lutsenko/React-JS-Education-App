@@ -19,7 +19,7 @@ const TableCourses = ({ data, selectedClass, tableRef }) => {
       <thead>
         <tr>
           <th className="tableCourses_head">Назва предмету</th>
-          <th className="tableCourses_head">Код предмету</th>
+          <th className="tableCourses_head">Код предмету на Google Classroom</th>
           <th className="tableCourses_head">Вчитель</th>
           <th className="tableCourses_head">Email</th>
         </tr>
