@@ -25,7 +25,7 @@ const Navigation = () => {
             Розклад уроків
           </Link>
           <Link className="navigation_link" to="/courses">
-            Посилання на курси
+            Посилання на курси Google Classroom та онлайн-конференції
           </Link>
           <Link className="navigation_link" to="/books">
             Підручники

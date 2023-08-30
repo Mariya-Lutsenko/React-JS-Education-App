@@ -19,7 +19,7 @@ const Hero = () => {
               </Link>
               <Link to="/courses">
                 <button>
-                  Коди курсів Google Classroom{" "}
+                  Коди курсів Google Classroom та посилання на онлайн-уроки{" "}
                   <i className="fa fa-long-arrow-alt-right"></i>
                 </button>{" "}
               </Link>
