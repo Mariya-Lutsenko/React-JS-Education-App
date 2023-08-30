@@ -30,7 +30,7 @@ const TableCourses = ({ data, selectedClass, tableRef }) => {
             <td className="tableCourses_td">{subject.name}</td>
             <td className="tableCourses_td">{subject.code}</td>
             <td className="tableCourses_td">{subject.teacher}</td>
-            <td className="tableCourses_td">{subject.email}</td>
+            <td className="tableCourses_td email-cell">{subject.email}</td>
           </tr>
         ))}
       </tbody>

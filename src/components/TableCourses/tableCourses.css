@@ -14,6 +14,10 @@
   border-radius: 10px;
   box-shadow: -1px 1px 34px 4px rgba(171, 178, 185, 1);
 }
+.email-cell {
+  white-space: normal;
+  word-break: break-all;
+}
 
 .tableCourses_head,
 .tableCourses_td {
