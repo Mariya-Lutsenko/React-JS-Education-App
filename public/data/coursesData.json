@@ -2387,28 +2387,28 @@
       },
       {
         "name": "Історія України",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
+        "code": "Завдання на платформі Human",
+        "teacher": "Бойко Наталя Ігорівна ",
+        "email": "natalabojko287@gmail.com",
+        "conference": "http://meet.google.com/edq-nqxf-tec",
         "identifier": "",
         "access": ""
       },
       {
         "name": "Всесвітня історія",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
+        "code": "Завдання на платформі Human",
+        "teacher": "Бойко Наталя Ігорівна ",
+        "email": "natalabojko287@gmail.com",
+        "conference": "http://meet.google.com/edq-nqxf-tec",
         "identifier": "",
         "access": ""
       },
       {
         "name": "Громадянська освіта",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
+        "code": "Завдання на платформі Human",
+        "teacher": "Бойко Наталя Ігорівна ",
+        "email": "natalabojko287@gmail.com",
+        "conference": "http://meet.google.com/edq-nqxf-tec",
         "identifier": "",
         "access": ""
       },
@@ -2480,7 +2480,7 @@
         "code": "h4llctx",
         "teacher": "Дмітрієва Лариса Олександрівна",
         "email": "Larisa1005@gmail.com",
-        "conference": "",
+        "conference": "http://meet.google.com/ygd-ehms-jia",
         "identifier": "",
         "access": ""
       },
@@ -2494,7 +2494,16 @@
         "access": "4KmhZ4"
       },
       {
-        "name": "Захист України",
+        "name": "Захист України (хлопці)",
+        "code": "d6baiqc",
+        "teacher": "Гаєвський Станіслав Олексійович",
+        "email": "stanislavoleksijovich@gmail.com",
+        "conference": "",
+        "identifier": "",
+        "access": ""
+      },
+      {
+        "name": "Захист України (дівчата)",
         "code": "",
         "teacher": "",
         "email": "",
