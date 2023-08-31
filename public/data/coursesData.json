@@ -2777,48 +2777,57 @@
       },
       {
         "name": "Хімія",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "code": "Завдання на платформі Human",
+        "teacher": "Харченко Вікторія Юріївна",
+        "email": "vikayuriivna@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5142362811?pwd=QkNLZkoxdUw1TWdRejV2RzY4RFk0QT09",
+        "identifier": "514 236 2811",
+        "access": "ts32uE"
       },
       {
         "name": "Інформатика",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "code": "Завдання на платформі Human",
+        "teacher": "Ляпіна Ольга Дмитрівна",
+        "email": "olga.dmitrievna140@gmail.com",
+        "conference": "https://us02web.zoom.us/j/7447327486?pwd=eyxoIoAdudaIU5lHF9Fu046NJEtNlE.1",
+        "identifier": "744 732 7486",
+        "access": "123456"
       },
       {
         "name": "Мистецтво",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
+        "code": "7yhnsyg",
+        "teacher": "Дмітрієва Лариса Олександрівна",
+        "email": "Larisa1005@gmail.com",
+        "conference": "http://meet.google.com/boy-eihh-rsp",
         "identifier": "",
         "access": ""
       },
       {
         "name": "Фізична культура",
-        "code": "",
-        "teacher": "",
-        "email": "",
+        "code": "qjrxspv",
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "811 467 6352",
+        "access": "4KmhZ4"
+      },
+      {
+        "name": "Захист України (хлопці)",
+        "code": "vtekzqr",
+        "teacher": "Гаєвський Станіслав Олексійович",
+        "email": "stanislavoleksijovich@gmail.com",
         "conference": "",
         "identifier": "",
         "access": ""
       },
       {
-        "name": "Захист України",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "name": "Захист України (дівчата)",
+        "code": "Завдання на платформі Human",
+        "teacher": "Бердута Лариса Юріївна",
+        "email": "larisamsl70@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5015941770?pwd=bWJJMENHVTZuMXo0QnBtMWI4bWJhdz09",
+        "identifier": "501 594 1770",
+        "access": "765432"
       }
     ]
   },
