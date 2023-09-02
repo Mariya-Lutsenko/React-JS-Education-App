@@ -5,23 +5,38 @@
     "subjects": [
       {
         "name": "Математика",
-        "author": "",
-        "link": ""
+        "author": "Скворцова С.О.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/07_Matematyka_1kl/Matematyka_pidruchnyk%20dlia%201%20klasu%20ZZSO%20(Skvortsova%20S.%20O.,%20Onopriienko%20O.%20V.)%20.pdf"
       },
       {
         "name": "Англійська мова",
-        "author": "",
-        "link": ""
+        "author": "Карпюк О.Д.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/03_Inozemnamova_english_1kl/KarpyukOD/English_1_2018_Aston.pdf"
       },
       {
         "name": "Українська мова. Буквар І частина",
-        "author": "",
-        "link": ""
+        "author": "Вашуленко М. С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/01_Ukr_mova_Bukvar_1kl/VashulenkoMS/Bukvar_1kl_ukr.pdf"
       },
       {
         "name": "Українська мова. Буквар ІI частина",
-        "author": "",
-        "link": ""
+        "author": "Вашуленко М.С.",
+        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books/Pidruchnuk-1kl-2018-pdf/01_Ukr_mova_Bukvar_1kl/VashulenkoMS/BUKVAR_1-KL_VASH_CH-2_.pdf"
+      },
+      {
+        "name": "Я досліджую світ І частина",
+        "author": "Н.Бібік",
+        "link": "https://drive.google.com/uc?export=download&id=1qfQWpqKhQiA7ubfpCrC1eZumJCHl_ZaA"
+      },
+      {
+        "name": "Я досліджую світ ІI частина",
+        "author": "Н.Бібік",
+        "link": "https://drive.google.com/uc?export=download&id=1mV68Jx7guOJCwmpFO2RM9dpkkotdYEHj"
+      },
+      {
+        "name": "Мистецтво",
+        "author": "Масол Л.М.",
+        "link": "https://drive.google.com/uc?export=download&id=1MdcbdngZYOYiRAYgaUBR-cyAU6RmS7Nw"
       }
     ]
   },
@@ -208,9 +223,19 @@
         "link": "https://pidruchnyk.com.ua/uploads/book/5_doslid_istoriyi_pometun_2022.pdf"
       },
       {
-        "name": "Англійська мова",
+        "name": "Англійська мова (підручник)",
         "author": "Джоанна Коста",
         "link": "https://pidruchnyk.com.ua/uploads/book/5_english_kosta_2022.pdf"
+      },
+      {
+        "name": "Англійська мова PREPARE Grammar (зошит)",
+        "author": "Джоанна Коста",
+        "link": "https://drive.google.com/file/d/1im0A60izJeHk6mTSANjXV3wJDbC2vZaB/view?usp=sharing"
+      },
+      {
+        "name": "Англійська мова PREPARE WB (зошит)",
+        "author": "Джоанна Коста",
+        "link": "https://drive.google.com/file/d/1e2JiR4AX6waLuroa6y06GgzqcjgDp-U-/view?usp=sharing"
       }
     ]
   },
