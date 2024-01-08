@@ -41,7 +41,7 @@ const Courses = () => {
 
   return (
     <>
-      <Back title="Посилання на курси Google Classroom" />
+      <Back title="Посилання на конференції та курси Google Classroom" />
       <section className="courses">
         <div className="container coursesFlex">
           <div className="grid2">
