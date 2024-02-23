@@ -39,7 +39,7 @@ const Navigation = () => {
             href="https://testportal.gov.ua/osnovne-pro-nmt-2023/"
             className="button_zno"
           >
-            ГОТУЄМОСЬ ДО ЗНО
+            ГОТУЄМОСЬ ДО НМТ-2024
           </a>
         </div>
         <button className="toggle" onClick={() => setClick(!click)}>
