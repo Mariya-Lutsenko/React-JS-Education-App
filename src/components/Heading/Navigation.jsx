@@ -36,7 +36,7 @@ const Navigation = () => {
         </div>
         <div className="start">
           <a
-            href="https://testportal.gov.ua/osnovne-pro-nmt-2023/"
+            href="https://testportal.gov.ua/tag/nmt-2024/"
             className="button_zno"
           >
             ГОТУЄМОСЬ ДО НМТ-2024
