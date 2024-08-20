@@ -15,20 +15,20 @@ const Navigation = () => {
           <Link className="navigation_link" to="/">
             Головна
           </Link>
-          <Link className="navigation_link" to="/about">
-            Як організувати онлайн-навчання
+          <Link className="navigation_link" to="/schedule">
+            Розклад уроків
           </Link>
           <Link className="navigation_link" to="/bells">
             Розклад дзвоників
           </Link>
-          <Link className="navigation_link" to="/schedule">
-            Розклад уроків
-          </Link>
           <Link className="navigation_link" to="/courses">
-            Посилання на курси Google Classroom та онлайн-конференції
+            Посилання на онлайн-уроки
           </Link>
           <Link className="navigation_link" to="/books">
-            Підручники
+            Електронні підручники
+          </Link>
+          <Link className="navigation_link" to="/about">
+            Як організувати онлайн-навчання
           </Link>
           <Link className="navigation_link" to="/contacts">
             Контакти

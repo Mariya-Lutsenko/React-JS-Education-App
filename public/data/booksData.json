@@ -608,6 +608,11 @@
         "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-10-klas-2018/05-vsesvitnya-istoriya-10-klas/vsevitnya-istoriya-10kl-gisem-ranok.pdf"
       },
       {
+        "name": "Історія України (профільний рівень для 10-Б класу)",
+        "author": "Власов В.С.",
+        "link": "https://nx.litera.ltd/s/SoXWSCs3G5QCGaj/download/g10-ist-ukr-profil-2023.pdf"
+      },
+      {
         "name": "Громадянська освіта",
         "author": "Гісем О.О.",
         "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-10-klas-2018/08-gromadyanska-osvita-10-klas/gromadyanska-osvita-gisem-ranok.pdf"
@@ -628,9 +633,14 @@
         "link": "https://drive.google.com/uc?export=download&id=17Q4y57pfKOsnlk50V4_myDS5fLJwpCX5"
       },
       {
-        "name": "Інформатика",
+        "name": "Інформатика (рівень стандарту для 10-Б класу)",
         "author": "Ривкінд Й.Я.",
         "link": "https://drive.google.com/uc?export=download&id=1o-Ti5-N1YaLCOlDkIwEFGpNQrJ5di6Va"
+      },
+      {
+        "name": "Інформатика (профільний рівень для 10-А класу)",
+        "author": "Руденко В.Д., Речич Н.В.",
+        "link": "https://drive.google.com/uc?export=download&id=1RM3qHV1oP4QC2ECGIO07UuLf6iGHrWlS"
       }
     ]
   },

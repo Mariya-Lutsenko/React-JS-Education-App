@@ -41,7 +41,7 @@ const Courses = () => {
 
   return (
     <>
-      <Back title="Посилання на конференції та курси Google Classroom" />
+      <Back title="Посилання на онлайн-уроки та курси Google Classroom" />
       <section className="courses">
         <div className="container coursesFlex">
           <div className="grid2">
@@ -58,13 +58,13 @@ const Courses = () => {
               )}
             </div>
           </div>
+          <TableConference  selectedClass={selectedClass}
+            data={coursesData || []}/>
           <TableCourses
             tableRef={tableRef}
             selectedClass={selectedClass}
             data={coursesData || []}
           />
-          <TableConference  selectedClass={selectedClass}
-            data={coursesData || []}/>
         </div>
       </section>
     </>
