@@ -49,15 +49,6 @@
         "access": "12345"
       },
       {
-        "name": "Інформатика",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
         "name": "Мистецтво",
         "code": "",
         "teacher": "Макарова Олена Володимирівна",
@@ -276,9 +267,9 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://meet.google.com/xkr-grve-vbb",
         "identifier": "",
         "access": ""
       },
@@ -363,9 +354,9 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://meet.google.com/xkr-grve-vbb",
         "identifier": "",
         "access": ""
       },
@@ -450,11 +441,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09&omn=84890681317",
+        "identifier": "9797688285",
+        "access": "Hh9yKU"
       },
       {
         "name": "Математика",
@@ -537,11 +528,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09&omn=84890681317",
+        "identifier": "9797688285",
+        "access": "Hh9yKU"
       },
       {
         "name": "Математика",
@@ -581,12 +572,12 @@
       },
       {
         "name": "Мистецтво",
-        "code": "4uqdf3m",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
-        "identifier": "7323557831",
-        "access": "1WKdhX"
+        "code": "",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "5853036465",
+        "access": "12345"
       },
       {
         "name": "Фізична культура",
@@ -624,11 +615,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "4943142504",
+        "access": "111111"
       },
       {
         "name": "Зарубіжна література",
@@ -870,29 +861,29 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Українська література",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09&omn=84890681317",
+        "identifier": "9797688285",
+        "access": "Hh9yKU"
       },
       {
         "name": "Зарубіжна література",
@@ -905,7 +896,7 @@
       },
       {
         "name": "Математика",
-        "code": "q6i6dfb",
+        "code": "",
         "teacher": "Великожон Віра Григорівна",
         "email": "mathinf140@gmail.com",
         "conference": "https://meet.google.com/huq-xbie-kuf",
@@ -960,11 +951,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "Луценко Марія Вікторівна",
-        "email": "mariyalutsenko1@gmail.com",
-        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
-        "identifier": "9833891020",
-        "access": "123456"
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
@@ -1011,11 +1002,11 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Українська література",
@@ -1101,11 +1092,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "Луценко Марія Вікторівна",
-        "email": "mariyalutsenko1@gmail.com",
-        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
-        "identifier": "9833891020",
-        "access": "123456"
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Технології",
@@ -1170,11 +1161,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "4943142504",
+        "access": "111111"
       },
       {
         "name": "Зарубіжна література",
@@ -1187,7 +1178,7 @@
       },
       {
         "name": "Математика",
-        "code": "q6i6dfb",
+        "code": "",
         "teacher": "Великожон Віра Григорівна",
         "email": "mathinf140@gmail.com",
         "conference": "https://meet.google.com/huq-xbie-kuf",
@@ -1401,11 +1392,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "9833891020",
+        "access": "123456"
       },
       {
         "name": "Технології",
@@ -1419,11 +1410,11 @@
       {
         "name": "Образотворче мистецтво",
         "code": "",
-        "teacher": "Маганова Наталя Володимирівна",
-        "email": "natalkamaganova@gmail.com",
-        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
-        "identifier": "7520211922",
-        "access": "4VLy6S"
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
@@ -1461,29 +1452,29 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Українська література",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09&omn=84890681317",
+        "identifier": "9797688285",
+        "access": "Hh9yKU"
       },
       {
         "name": "Зарубіжна література",
@@ -1569,11 +1560,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Луценко Марія Вікторівна",
+        "email": "mariyalutsenko1@gmail.com",
+        "conference": "https://us04web.zoom.us/j/9833891020?pwd=vAuUeFb1ocMtbS6F7PXxyliApJ6urG.1",
+        "identifier": "9833891020",
+        "access": "123456"
       },
       {
         "name": "Технології",
@@ -1587,11 +1578,11 @@
       {
         "name": "Образотворче мистецтво",
         "code": "",
-        "teacher": "Маганова Наталя Володимирівна",
-        "email": "natalkamaganova@gmail.com",
-        "conference": "https://us04web.zoom.us/j/7520211922?pwd=N1F4M25laDF6d05zVzZxRFVKdDlkUT09",
-        "identifier": "7520211922",
-        "access": "4VLy6S"
+        "teacher": "",
+        "email": "",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       },
       {
         "name": "Музичне мистецтво",
@@ -1605,11 +1596,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Інтегрований курс «Здоров’я, безпека та добробут»",
@@ -1764,11 +1755,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Основи здоров’я",
@@ -1923,11 +1914,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Основи здоров’я",
@@ -1965,20 +1956,20 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "4943142504",
+        "access": "111111"
       },
       {
         "name": "Зарубіжна література",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Історія України",
@@ -2082,11 +2073,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Основи здоров’я",
@@ -2133,20 +2124,20 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Корсунська Олена Олексіївна",
+        "email": "helenkorsunskaya@gmail.com",
+        "conference": "https://us04web.zoom.us/j/4943142504?pwd=UG5nQ0sybjlsbFhMRlBRdHhyM0prdz09",
+        "identifier": "4943142504",
+        "access": "111111"
       },
       {
         "name": "Зарубіжна література",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Мишенко Надія Михайлівна",
+        "email": "nadiamyshenko@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5759187997?pwd=T05HYUs2VnRRaDAwZlV4ZXpHTHhOUT09&omn=76807223436",
+        "identifier": "5759187997",
+        "access": "4NaLbM"
       },
       {
         "name": "Історія України",
@@ -2250,11 +2241,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Основи здоров’я",
@@ -2345,7 +2336,7 @@
       },
       {
         "name": "Алгебра та початки аналізу",
-        "code": "jq46ti5",
+        "code": "",
         "teacher": "Великожон Віра Григорівна",
         "email": "mathinf140@gmail.com",
         "conference": "https://meet.google.com/jrv-njwt-dvm",
@@ -2354,7 +2345,7 @@
       },
       {
         "name": "Геометрія",
-        "code": "l3mmg3g",
+        "code": "",
         "teacher": "Великожон Віра Григорівна",
         "email": "mathinf140@gmail.com",
         "conference": "https://meet.google.com/jrv-njwt-dvm",
@@ -2418,11 +2409,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Захист України (хлопці)",
@@ -2513,7 +2504,7 @@
       },
       {
         "name": "Алгебра та початки аналізу",
-        "code": "jq46ti5",
+        "code": "",
         "teacher": "Великожон Віра Григорівна",
         "email": "mathinf140@gmail.com",
         "conference": "https://meet.google.com/jrv-njwt-dvm",
@@ -2522,7 +2513,7 @@
       },
       {
         "name": "Геометрія",
-        "code": "l3mmg3g",
+        "code": "",
         "teacher": "Великожон Віра Григорівна",
         "email": "mathinf140@gmail.com",
         "conference": "https://meet.google.com/jrv-njwt-dvm",
@@ -2586,11 +2577,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Захист України (хлопці)",
@@ -2637,11 +2628,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09&omn=84890681317",
+        "identifier": "9797688285",
+        "access": "Hh9yKU"
       },
       {
         "name": "Зарубіжна література",
@@ -2754,11 +2745,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Захист України (хлопці)",
@@ -2805,11 +2796,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Кондрацька Марина Іванівна",
+        "email": "kondratsky201490@gmail.com",
+        "conference": "https://us05web.zoom.us/j/9797688285?pwd=MThKa2FIM0JSZ3JXUElCR3phZlJSdz09&omn=84890681317",
+        "identifier": "9797688285",
+        "access": "Hh9yKU"
       },
       {
         "name": "Зарубіжна література",
@@ -2922,11 +2913,11 @@
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Шуть Владислав Сергійович",
+        "email": "vladislavsergeevicsut@gmail.com",
+        "conference": "https://us04web.zoom.us/j/8114676352?pwd=MnFFcWhmSTlFSmM1KzJoaUZVSWF3dz09",
+        "identifier": "8114676352",
+        "access": "4KmhZ4"
       },
       {
         "name": "Захист України (хлопці)",
