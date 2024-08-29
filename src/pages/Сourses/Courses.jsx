@@ -58,8 +58,10 @@ const Courses = () => {
               )}
             </div>
           </div>
-          <TableConference  selectedClass={selectedClass}
-            data={coursesData || []}/>
+          <TableConference
+            selectedClass={selectedClass}
+            data={coursesData || []}
+          />
           <TableCourses
             tableRef={tableRef}
             selectedClass={selectedClass}

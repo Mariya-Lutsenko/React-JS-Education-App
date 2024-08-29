@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="container footer-padding">
           <div className="legal">
             <p>
-              &#169; 2023 | All Rights Reserved | Developed with
+              &#169; 2024 | All Rights Reserved | Developed with
               <span className="footer__icon">
                 <i className="fa fa-heart"></i>
               </span>
