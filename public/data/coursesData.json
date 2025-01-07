@@ -23,12 +23,12 @@
       },
       {
         "name": "Математика",
-        "code": "hwgygb5",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/2985569739?pwd=TFZITytQQTJCNHZOKzdWY2FiU1ZFdz09",
-        "identifier": "2985569739",
-        "access": "1111"
+        "code": "",
+        "teacher": "Макарова Олена Володимирівна",
+        "email": "em2352930@gmail.com",
+        "conference": "https://us04web.zoom.us/j/5853036465?pwd=L3Evd280VHZJZXgxaVZhMFNjWXFXdz09",
+        "identifier": "5853036465",
+        "access": "12345"
       },
       {
         "name": "Я досліджую світ",
@@ -119,21 +119,21 @@
       },
       {
         "name": "Дизайн і технології",
-        "code": "xzn7vqe",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "code": "",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7323557831?pwd=OEl4a3gyRU1HNW9ranBxVXQ5dHBxdz09&omn=74025055446",
         "identifier": "7323557831",
-        "access": "1WKdhX"
+        "access": "5555"
       },
       {
         "name": "Інформатика",
-        "code": "dcavkfq",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "code": "",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7323557831?pwd=OEl4a3gyRU1HNW9ranBxVXQ5dHBxdz09&omn=74025055446",
         "identifier": "7323557831",
-        "access": "1WKdhX"
+        "access": "5555"
       },
       {
         "name": "Мистецтво",
@@ -162,20 +162,20 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "Кондратьєва Людмила Олександрівна",
-        "email": "kondratievalyuda@gmail.com",
-        "conference": "https://us04web.zoom.us/j/71252384638?pwd=EwcSA5wYEP6sQla1aV9KQQlSrj4hLd.1",
-        "identifier": "71252384638",
-        "access": "1234567"
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "7323557831",
+        "access": "1WKdhX"
       },
       {
         "name": "Читання",
         "code": "",
-        "teacher": "Кондратьєва Людмила Олександрівна",
-        "email": "kondratievalyuda@gmail.com",
-        "conference": "https://us04web.zoom.us/j/71252384638?pwd=EwcSA5wYEP6sQla1aV9KQQlSrj4hLd.1",
-        "identifier": "71252384638",
-        "access": "1234567"
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "7323557831",
+        "access": "1WKdhX"
       },
       {
         "name": "Іноземна мова (англійська)",
@@ -189,29 +189,29 @@
       {
         "name": "Математика",
         "code": "",
-        "teacher": "Кондратьєва Людмила Олександрівна",
-        "email": "kondratievalyuda@gmail.com",
-        "conference": "https://us04web.zoom.us/j/71252384638?pwd=EwcSA5wYEP6sQla1aV9KQQlSrj4hLd.1",
-        "identifier": "71252384638",
-        "access": "1234567"
-      },
-      {
-        "name": "Я досліджую світ",
-        "code": "",
-        "teacher": "Кондратьєва Людмила Олександрівна",
-        "email": "kondratievalyuda@gmail.com",
-        "conference": "https://us04web.zoom.us/j/71252384638?pwd=EwcSA5wYEP6sQla1aV9KQQlSrj4hLd.1",
-        "identifier": "71252384638",
-        "access": "1234567"
-      },
-      {
-        "name": "Дизайн і технології",
-        "code": "2tsp4cb",
         "teacher": "Бойко-Сазонова Лариса Іванівна",
         "email": "Larisa602@ukr.net",
         "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
         "identifier": "7323557831",
         "access": "1WKdhX"
+      },
+      {
+        "name": "Я досліджую світ",
+        "code": "",
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "7323557831",
+        "access": "1WKdhX"
+      },
+      {
+        "name": "Дизайн і технології",
+        "code": "",
+        "teacher": "Манжос Інна Валентинівна",
+        "email": "manzosinna18@gmail.com",
+        "conference": "https://us04web.zoom.us/j/7323557831?pwd=OEl4a3gyRU1HNW9ranBxVXQ5dHBxdz09&omn=74025055446",
+        "identifier": "7323557831",
+        "access": "5555"
       },
       {
         "name": "Інформатика",
@@ -225,20 +225,20 @@
       {
         "name": "Мистецтво",
         "code": "",
-        "teacher": "Кондратьєва Людмила Олександрівна",
-        "email": "kondratievalyuda@gmail.com",
-        "conference": "https://us04web.zoom.us/j/71252384638?pwd=EwcSA5wYEP6sQla1aV9KQQlSrj4hLd.1",
-        "identifier": "71252384638",
-        "access": "1234567"
+        "teacher": "Бойко-Сазонова Лариса Іванівна",
+        "email": "Larisa602@ukr.net",
+        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
+        "identifier": "7323557831",
+        "access": "1WKdhX"
       },
       {
         "name": "Фізична культура",
         "code": "",
-        "teacher": "Кондратьєва Людмила Олександрівна",
-        "email": "kondratievalyuda@gmail.com",
-        "conference": "https://us04web.zoom.us/j/71252384638?pwd=EwcSA5wYEP6sQla1aV9KQQlSrj4hLd.1",
-        "identifier": "71252384638",
-        "access": "1234567"
+        "teacher": "Коваленко Артем Олексійович",
+        "email": "artemkovalenko1718@gmail.com",
+        "conference": "",
+        "identifier": "",
+        "access": ""
       }
     ]
   },
@@ -284,12 +284,12 @@
       },
       {
         "name": "Я досліджую світ",
-        "code": "ji5b3l6",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
-        "identifier": "7323557831",
-        "access": "1WKdhX"
+        "code": "oy74krp",
+        "teacher": "Картукова Тетяна Миколаївна",
+        "email": "kartukova.t@ukr.net",
+        "conference": "https://us04web.zoom.us/j/4532117350?pwd=MU11Y3FHVmliNXhPb3g3eUtLTDM2dz09",
+        "identifier": "4532117350",
+        "access": "12345"
       },
       {
         "name": "Дизайн і технології",
@@ -371,12 +371,12 @@
       },
       {
         "name": "Я досліджую світ",
-        "code": "fzgj45l",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
-        "identifier": "7323557831",
-        "access": "1WKdhX"
+        "code": "",
+        "teacher": "Асєєва Світлана Анатоліївна",
+        "email": "aseeva.sv2@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6312031148?pwd=bnNRMWMwc0t2V0RXanJLVXpFejgyQT09",
+        "identifier": "6312031148",
+        "access": "m4P83c"
       },
       {
         "name": "Дизайн і технології",
@@ -476,21 +476,21 @@
       },
       {
         "name": "Інформатика",
-        "code": "holhxlr",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
-        "identifier": "7323557831",
-        "access": "1WKdhX"
+        "code": "",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09&omn=87894730384",
+        "identifier": "5739046460",
+        "access": "LRC9Lp"
       },
       {
         "name": "Мистецтво",
-        "code": "r3wg2km",
-        "teacher": "Бойко-Сазонова Лариса Іванівна",
-        "email": "Larisa602@ukr.net",
-        "conference": "https://us04web.zoom.us/j/77319180816?pwd=uoqDArmk1Nz4j1K3Kj1WEGabz9Shk3.1",
-        "identifier": "7323557831",
-        "access": "1WKdhX"
+        "code": "",
+        "teacher": "Ятлова Аліна Олександрівна",
+        "email": "alina.yatlova14@gmail.com",
+        "conference": "https://us05web.zoom.us/j/5739046460?pwd=SFhSSXYxbmtldjF4cTlwdjdTalJwZz09&omn=87894730384",
+        "identifier": "5739046460",
+        "access": "LRC9Lp"
       },
       {
         "name": "Фізична культура",
