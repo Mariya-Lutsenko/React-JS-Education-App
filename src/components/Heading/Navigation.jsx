@@ -36,10 +36,10 @@ const Navigation = () => {
         </div>
         <div className="start">
           <a
-            href="https://testportal.gov.ua/tag/nmt-2024/"
+            href="https://testportal.gov.ua/tag/nmt-2025/"
             className="button_zno"
           >
-            ГОТУЄМОСЬ ДО НМТ-2024
+            ГОТУЄМОСЬ ДО НМТ-2025
           </a>
         </div>
         <button className="toggle" onClick={() => setClick(!click)}>
