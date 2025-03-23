@@ -12,7 +12,7 @@ const Footer = () => {
               <span className="footer__icon">
                 <i className="fa fa-heart"></i>
               </span>
-              by Mariia Lutsenko & Oleg Ovcharov
+              by Mariia Lutsenko
             </p>
           </div>
         </div>
