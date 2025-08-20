@@ -55,9 +55,9 @@
         "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/01-ukrainska-mova-ta-chytannya-2-klas/ukr-mova-2-kl-vashulenko-dubovyk-vashulenko/2-klas-literatyrne-chutannya-blok.pdf"
       },
       {
-        "name": "Англійська мова",
-        "author": "Губарєва С.С., Павліченко О.М.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/03-inozemna-mova-angliyska-mova-2-klas/angliyska-mova-2-klas-gubarjeva-pavlichenko-zalyubovska/Anhliiska%20mova%20pidruchnyk%20dlia%202%20klasu%20ZZSO%20(z%20audiosuprovodom)(Hubarieva%20S.%20S.,%20Pavlichenko%20O.%20M.,%20Zaliubovska%20L.%20V.).pdf"
+        "name": "Англійська мова (2024)",
+        "author": "Карпюк О.Л.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/2-klas-english-karpuk-2024.pdf"
       },
       {
         "name": "Математика",
@@ -65,14 +65,19 @@
         "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/07-matematyka-2-klas/matymatyka-pidruchnyk-dlia-2-klasu-zzso-skvortsova-s-o-onopriienko-o-v.pdf"
       },
       {
-        "name": "Я досліджую світ, І частина",
+        "name": "Я досліджую світ, І частина (2024)",
         "author": "Бібік Н.М.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/08-ya-doslidzhuyu-svit-2-klas/yads-2-klas-bibikbondarchuk-kornijenko-ta-inshi/ya-doslidzhuiu-svit-pidruchnyk-dlia-2-klasu-zzso-u-2-chastynakh-chastyna-1-avt-bibik-n-m-bondarchuk-h-p.pdf"
+        "link": "https://pidruchnyk.com.ua/uploads/book/2-klas-ya-doslidzhuiu-svit-bibik-2024-1.pdf"
       },
       {
-        "name": "Я досліджую світ, ІІ частина",
+        "name": "Я досліджую світ, ІІ частина (2025)",
         "author": "Корнієнко М.М., Крамаровська С.М.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-2-klas-2019/08-ya-doslidzhuyu-svit-2-klas/yads-2-klas-bibikbondarchuk-kornijenko-ta-inshi/Ya%20doslidzhuiu%20svit_pidruchnyk%20dlia%202%20klasu%20ZZSO%20(u%202%20chastynakh)%20(Chastyna%202%20avt.%20Korniienko%20M.%20M.,%20Kramarovska%20S.%20M.,%20Zaretska%20I.%20T.).pdf"
+        "link": "https://drive.google.com/file/d/1Wvl3pSeRjo-uGCpyQe0TOohqhmNxns5w/view?usp=sharing"
+      },
+      {
+        "name": "Мистецтво (2024)",
+        "author": "Масол Л.М.",
+        "link": "https://pidruchnyk.com.ua/uploads/book/2-klas-mystetstvo-masol-2024.pdf"
       }
     ]
   },
@@ -411,74 +416,94 @@
     "class": "8 клас",
     "subjects": [
       {
-        "name": "Українська мова",
+        "name": "Українська мова (2025)",
         "author": "Заболотний О.В.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/1-Ukr-mova-8kl/Ukr-mova-8kl-Zabolotnyy.pdf"
+        "link": "https://drive.google.com/file/d/1w-HmaGfkaOy1g5f3Bm0MZQfYO00t1RZs/view"
       },
       {
-        "name": "Українська література",
-        "author": "Авраменко О.М.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/2-Ukr-liter-8kl/Ukr-lit-pogl-8kl-Gramota.pdf"
+        "name": "Українська література (2025)",
+        "author": "Яценко Т.О.",
+        "link": "https://drive.google.com/file/d/1P_CrQSK-JVu5hkou2jQD9gMOx3nBMKYQ/view?usp=sharing"
       },
       {
-        "name": "Англійська мова",
-        "author": "Карпюк О.Д.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/6-english-8kl/Anhliyska-8-rik-nav-8kl-Karpyuk.pdf"
+        "name": "Англійська мова (2025)",
+        "author": "Стайрінг Д.",
+        "link": "https://drive.google.com/file/d/14TW4D8egLcBOWQImrsxdHfQ5RhtxSYyv/view"
       },
       {
-        "name": "Хімія",
+        "name": "Хімія (2025)",
         "author": "Григорович О.В.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/13-khimiya-8kl/Khimiia-8kl-Grygorovych.pdf"
+        "link": "https://drive.google.com/file/d/1OW2tiDqxYGbp6eUTYc-t4imrBW4AQ5E9/view"
       },
       {
-        "name": "Інформатика",
-        "author": "Ривкінд Й.Я.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/11-informatyka-8kl/Informatyka-8kl-Ryvkind.pdf"
+        "name": "Інформатика (2025)",
+        "author": "Бондаренко О.О.",
+        "link": "https://drive.google.com/file/d/1mase2wEqzybkz64NYTSq7ipxBEyOO8f6/view"
       },
       {
-        "name": "Основи здоров'я",
-        "author": "Тагліна О.В.",
-        "link": "https://drive.google.com/uc?export=download&id=1F_ZgeykinlXlph2JPljWAw7Wf8L4N80W"
+        "name": "Здоров'я безпека та добробут (2025)",
+        "author": "Воронцова Т.В.",
+        "link": "https://drive.google.com/file/d/1ILunXMTHZ43uLPxX_UjYvlBNZqvPiuRQ/view"
       },
       {
-        "name": "Алгебра",
+        "name": "Алгебра (2025)",
         "author": "Мерзляк А.Г.",
-        "link": "https://drive.google.com/uc?export=download&id=1wm_q4wVQrdewzyxgXHjwolP72oNc3hGU"
+        "link": "https://drive.google.com/file/d/18npl_B2TonBA9eDSx925HTefdI1-cUUm/view"
       },
       {
-        "name": "Геометрія",
+        "name": "Геометрія (2025)",
         "author": "Мерзляк А.Г.",
-        "link": "https://drive.google.com/uc?export=download&id=1cl_VVZFBckVJp8gUCszgsTO-lwUr0jUN"
+        "link": "https://drive.google.com/file/d/1LVhiTbOImDGrrNfvNbzknLCw3Fl08yNZ/view"
       },
       {
-        "name": "Зарубіжна література",
-        "author": "Волощук Є.",
-        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-svitova-literatura-voloschuk-2021.pdf"
+        "name": "Зарубіжна література (2025)",
+        "author": "Ніколенко О.М.",
+        "link": "https://drive.google.com/file/d/1AXnF7hvDUZNZVLhf1W4Xpmvi1eG4ADjf/view"
       },
       {
-        "name": "Історія України",
-        "author": "Власов В.С.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/4-istoria-Ukr-8kl/Istoria-Ukrainy-8kl-Vlasov.pdf"
+        "name": "Історія України (2025)",
+        "author": "Галімов А.А.",
+        "link": "https://drive.google.com/file/d/1F1Zlo4T3HeGxX-mvtvD3ZFyRWX68BAhD/view"
       },
       {
-        "name": "Всесвітня історія",
-        "author": "Щупак І.Я.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/5-vsesv-istoria-8kl/Vsesvitnya-sstoriya-8kl-Shchupak.pdf"
+        "name": "Всесвітня історія (2025)",
+        "author": "Гісем О.В.",
+        "link": "https://drive.google.com/file/d/1EROglXJxsMHY5jaZ9et2GqLTD0kKQTbd/view"
       },
       {
-        "name": "Географія",
+        "name": "Громадянська освіта",
+        "author": "Васильків І.Д.",
+        "link": "https://drive.google.com/file/d/16AKh8BWy8UXKt0tgupoYpW5ZFup9IgkP/view"
+      },
+      {
+        "name": "Географія (2025)",
         "author": "Коберник С.П.",
-        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-geohrafiya-kobernik-2021.pdf"
+        "link": "https://drive.google.com/file/d/1CU98nM3UEGXDDATuqfjlFw6WITYqYrZT/view"
       },
       {
-        "name": "Фізика",
+        "name": "Фізика (2025)",
         "author": "Бар'яхтар В.Г.",
-        "link": "https://lib.imzo.gov.ua/wa-data/public/site/books2/pidruchnyky-8klas-2021/12-fizyka-8kl/Fizyka-8kl-Baryakhtar.pdf"
+        "link": "https://drive.google.com/file/d/1fl48hfyxAzicLcF5DIoIX3jZRPWahQaZ/view"
       },
       {
-        "name": "Біологія",
-        "author": "Остапченко Л., Матяш Н.",
-        "link": "https://pidruchnyk.com.ua/uploads/book/8-klas-biologiya-matyash-2021.pdf"
+        "name": "Біологія (2025)",
+        "author": "Задородний К.",
+        "link": "https://drive.google.com/file/d/1CJNRwHODwc06-uuQ2PajfNu4b47ORZUt/view"
+      },
+      {
+        "name": "Мистецтво (2025)",
+        "author": "Масол Л.М.",
+        "link": "https://drive.google.com/file/d/1rEDOTRW_mJj70l2FKrVSTtoFKCAjUK_y/view"
+      },
+      {
+        "name": "Технології (2025)",
+        "author": "Ходзицька І.Ю.",
+        "link": "https://shkilni-pidruchnyky.com/component/jshortcodes/?view=download&id=8-tehnologii-hodzucka"
+      },
+      {
+        "name": "Підприємство і фінансова грамотність (2025)",
+        "author": "Пластун О.Л., Панченко С.Ю.",
+        "link": "https://drive.google.com/file/d/14zq7A2vuJYFmBitL-gpPCxRusWMYLK6N/view"
       }
     ]
   },
