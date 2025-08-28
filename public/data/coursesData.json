@@ -155,93 +155,7 @@
       }
     ]
   },
-  {
-    "id": 4,
-    "class": "2-Б клас",
-    "subjects": [
-      {
-        "name": "Українська мова",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Читання",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Іноземна мова (англійська)",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Математика",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Я досліджую світ",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Дизайн і технології",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Інформатика",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Мистецтво",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Фізична культура",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      }
-    ]
-  },
+
   {
     "id": 5,
     "class": "3-А клас",
@@ -329,93 +243,7 @@
       }
     ]
   },
-  {
-    "id": 6,
-    "class": "3-Б клас",
-    "subjects": [
-      {
-        "name": "Українська мова",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Літературне читання",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Іноземна мова (англійська)",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Математика",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Я досліджую світ",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Дизайн і технології",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Інформатика",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Мистецтво",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
-      {
-        "name": "Фізична культура",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      }
-    ]
-  },
+
   {
     "id": 7,
     "class": "4-A клас",
@@ -666,23 +494,15 @@
         "identifier": "940 198 5679",
         "access": "123456"
       },
-      {
-        "name": "Етика (курс за вибором)",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
+
       {
         "name": "Вступ до історії України та громадянської освіти",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Інформатика",
@@ -807,23 +627,15 @@
         "identifier": "940 198 5679",
         "access": "123456"
       },
-      {
-        "name": "Етика (курс за вибором)",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
+
       {
         "name": "Вступ до історії України та громадянської освіти",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Інформатика",
@@ -879,11 +691,11 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us05web.zoom.us/j/88092763651?pwd=V1IV1KNu6G1kFEQHqVa157qBmosUbb.1",
+        "identifier": "880 9276 3651",
+        "access": "951BeE"
       },
       {
         "name": "Українська література",
@@ -957,23 +769,15 @@
         "identifier": "940 198 5679",
         "access": "123456"
       },
-      {
-        "name": "Етика (курс за вибором)",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
+
       {
         "name": "Історія України. Всесвітня історія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Громадянська освіта",
@@ -1038,11 +842,11 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81816774343?pwd=xqAt6o1GUtkk7IkUpldVdKNoFc0p9B.1",
+        "identifier": "818 1677 4343",
+        "access": "M763qr"
       },
       {
         "name": "Українська література",
@@ -1056,11 +860,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
       },
       {
         "name": "Зарубіжна література",
@@ -1116,23 +920,15 @@
         "identifier": "940 198 5679",
         "access": "123456"
       },
-      {
-        "name": "Етика (курс за вибором)",
-        "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
-      },
+
       {
         "name": "Історія України. Всесвітня історія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Громадянська освіта",
@@ -1234,20 +1030,20 @@
       {
         "name": "Історія України",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Всесвітня історія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Громадянська освіта",
@@ -1420,20 +1216,20 @@
       {
         "name": "Історія України",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Всесвітня історія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Громадянська освіта",
@@ -1606,20 +1402,20 @@
       {
         "name": "Історія України",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Всесвітня історія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Алгебра",
@@ -1660,11 +1456,11 @@
       {
         "name": "Фізика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/72920927516?pwd=kt2ijaC1SGfwlkln51w0hYcm7tymTp.1",
+        "identifier": "729 2092 7516",
+        "access": "5tjt6y"
       },
       {
         "name": "Хімія",
@@ -1775,20 +1571,20 @@
       {
         "name": "Історія України",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Всесвітня історія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Конюшенко Лілія Миколаївна ",
+        "email": "lilakonushenko8@gmail.com",
+        "conference": "https://us05web.zoom.us/j/81521454051?pwd=9MKzBW6KohqvB6dLHS1EoX9x2dwt95.1",
+        "identifier": "815 214 54051",
+        "access": "6s9zrJ"
       },
       {
         "name": "Алгебра",
@@ -1829,11 +1625,11 @@
       {
         "name": "Фізика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73093899268?pwd=3QiNqPi9KoRZyW1zbeoAnRrhz9NPVP.1",
+        "identifier": "730 9389 9268",
+        "access": "0QEz94"
       },
       {
         "name": "Хімія",
@@ -1925,11 +1721,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
       },
       {
         "name": "Зарубіжна література",
@@ -2093,11 +1889,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
       },
       {
         "name": "Зарубіжна література",
@@ -2342,11 +2138,11 @@
       {
         "name": "Фізика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/79321793060?pwd=t58aAJd43wuvJOvm54CBe9CG9NLtC8.1",
+        "identifier": "793 2179 3060",
+        "access": "2GZ5EP"
       },
       {
         "name": "Хімія",
@@ -2360,11 +2156,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73047499881?pwd=COk1OC23ggeeyxiAyX8N3pzwa1O4PY.1",
+        "identifier": "730 4749 9881",
+        "access": "8DQK7h"
       },
       {
         "name": "Мистецтво",
@@ -2411,20 +2207,20 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": " "
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us05web.zoom.us/j/88306876754?pwd=mdCKuoavKaRuq6NQDwt1tVhE114REF.1",
+        "identifier": "883 0687 6754",
+        "access": "n7YSH0"
       },
       {
         "name": "Українська література",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": " "
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us05web.zoom.us/j/88306876754?pwd=mdCKuoavKaRuq6NQDwt1tVhE114REF.1",
+        "identifier": "883 0687 6754",
+        "access": "n7YSH0"
       },
       {
         "name": "Іноземна мова (англійська)",
@@ -2510,11 +2306,11 @@
       {
         "name": "Фізика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/79062688668?pwd=WcXdDbb4WvLxTF4FQ4gxvjZ7LHSp0h.1",
+        "identifier": "790 6268 8668",
+        "access": "3WSpUR"
       },
       {
         "name": "Хімія",
@@ -2528,11 +2324,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/71197065791?pwd=RdINmeWVUwB2s46SqYPrMnOv2EbbFc.1",
+        "identifier": "711 9706 5791",
+        "access": "6Kvspp"
       },
       {
         "name": "Мистецтво",
@@ -2597,11 +2393,11 @@
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
       },
       {
         "name": "Зарубіжна література",
@@ -2669,20 +2465,20 @@
       {
         "name": "Фізика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/75763571427?pwd=84FD9TKbyvPD8A8n3lxU5lZ4wAr3lT.1",
+        "identifier": "757 6357 1427",
+        "access": "0HwmLn"
       },
       {
         "name": "Астрономія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/75802329793?pwd=ybUjNyN8xsoDTBF5bg2ISwOULYzneD.1",
+        "identifier": "758 0232 9793",
+        "access": "1h1UYt"
       },
       {
         "name": "Хімія",
@@ -2696,11 +2492,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/79684901764?pwd=tdczt4KTQhVYxhWc3pAPKSycw5RcG4.1",
+        "identifier": "796 8490 1764",
+        "access": "1BXjgM"
       },
       {
         "name": "Мистецтво",
@@ -2747,29 +2543,29 @@
       {
         "name": "Українська мова",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us05web.zoom.us/j/86407390280?pwd=JVlbyCDYkuZbJ7kKWPGdTKKowDr8Px.1",
+        "identifier": "864 0739 0280",
+        "access": "2UF5U4"
       },
       {
         "name": "Українська література",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Курганська Світлана Іванівна",
+        "email": "17sweta71@gmail.com",
+        "conference": "https://us05web.zoom.us/j/86407390280?pwd=JVlbyCDYkuZbJ7kKWPGdTKKowDr8Px.1",
+        "identifier": "864 0739 0280",
+        "access": "2UF5U4"
       },
       {
         "name": "Іноземна мова (англійська)",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Візірякіна Юлія Вячеславівна",
+        "email": "yuliiavizir7@gmail.com",
+        "conference": "https://us04web.zoom.us/j/6432122605?pwd=ZUhZK2UvbW5FUDJtOG9TL0pFbUs4Zz09",
+        "identifier": "643 212 2605",
+        "access": "4ENGLISH"
       },
       {
         "name": "Зарубіжна література",
@@ -2837,20 +2633,20 @@
       {
         "name": "Фізика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/73059647805?pwd=IQX250A4ehx0f4LEBWhwuI1YUUFTwB.1",
+        "identifier": "730 5964 7805",
+        "access": "0KEf2g"
       },
       {
         "name": "Астрономія",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/76492672120?pwd=T2L2p5QHIrhPMdyPvsss1lOzvX1TQn.1",
+        "identifier": "764 9267 2120",
+        "access": "9GMMu3"
       },
       {
         "name": "Хімія",
@@ -2864,11 +2660,11 @@
       {
         "name": "Інформатика",
         "code": "",
-        "teacher": "",
-        "email": "",
-        "conference": "",
-        "identifier": "",
-        "access": ""
+        "teacher": "Наумов Дмитро Юрійович",
+        "email": "work.adm9@gmail.com",
+        "conference": "https://us04web.zoom.us/j/77069229481?pwd=li5IdcQomUtLQTaUciVh5bKSclLGq4.1",
+        "identifier": "770 6922 9481",
+        "access": "6CZd1k"
       },
       {
         "name": "Мистецтво",
