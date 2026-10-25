@@ -1,0 +1,137 @@
+.falling-leaves {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 150;
+  contain: layout paint;
+}
+
+.falling-leaf {
+  position: absolute;
+  top: -45px;
+  left: var(--leaf-left);
+  width: var(--leaf-size);
+  height: var(--leaf-size);
+  opacity: 0;
+  animation: golden-leaf-fall var(--leaf-duration) linear var(--leaf-delay)
+    infinite;
+}
+
+.leaf-spin {
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform-origin: center;
+  animation: golden-leaf-tumble 4.5s ease-in-out infinite;
+}
+
+.leaf-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  filter: drop-shadow(0 0 2px rgba(255, 205, 65, 0.28))
+    drop-shadow(1px 3px 3px rgba(105, 65, 8, 0.2));
+}
+
+/* Каждый лист движется по собственной траектории */
+.leaf-0 {
+  --drift: 32px;
+  --tilt: 210deg;
+}
+
+.leaf-1 {
+  --drift: -24px;
+  --tilt: -260deg;
+}
+
+.leaf-2 {
+  --drift: 18px;
+  --tilt: 300deg;
+}
+
+.leaf-3 {
+  --drift: -38px;
+  --tilt: -190deg;
+}
+
+/* Медленное падение с покачиванием */
+@keyframes golden-leaf-fall {
+  0% {
+    transform: translate3d(0, -5vh, 0);
+    opacity: 0;
+  }
+
+  8% {
+    opacity: 0.88;
+  }
+
+  25% {
+    transform: translate3d(calc(var(--drift) * 0.4), 25vh, 0);
+  }
+
+  50% {
+    transform: translate3d(calc(var(--drift) * -0.35), 52vh, 0);
+    opacity: 0.78;
+  }
+
+  75% {
+    transform: translate3d(var(--drift), 78vh, 0);
+    opacity: 0.82;
+  }
+
+  92% {
+    opacity: 0.55;
+  }
+
+  100% {
+    transform: translate3d(calc(var(--drift) * -0.5), 110vh, 0);
+    opacity: 0;
+  }
+}
+
+/* Лист переворачивается и словно закручивается в воздухе */
+@keyframes golden-leaf-tumble {
+  0% {
+    transform: rotate(-12deg) rotateY(0deg) scale(1);
+  }
+
+  20% {
+    transform: rotate(42deg) rotateY(65deg) scale(0.78, 1);
+  }
+
+  42% {
+    transform: rotate(115deg) rotateY(155deg) scale(0.35, 0.95);
+  }
+
+  58% {
+    transform: rotate(205deg) rotateY(230deg) scale(0.72, 1);
+  }
+
+  78% {
+    transform: rotate(292deg) rotateY(300deg) scale(0.55, 0.95);
+  }
+
+  100% {
+    transform: rotate(348deg) rotateY(360deg) scale(1);
+  }
+}
+
+/* На телефонах оставляем лёгкую анимацию */
+@media screen and (max-width: 600px) {
+  .leaf-svg {
+    filter: none;
+  }
+
+  .leaf-spin {
+    animation-duration: 5.5s;
+  }
+}
+
+/* Уважение к настройке уменьшения движения */
+@media (prefers-reduced-motion: reduce) {
+  .falling-leaves {
+    display: none;
+  }
+}
