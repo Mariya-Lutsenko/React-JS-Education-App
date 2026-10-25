@@ -7,12 +7,14 @@ import UserRoutes from "./UserRoutes";
 import Footer from "./components/Footer/Footer";
 import Loader from "./components/Loader/Loader";
 import FallingLeaves from "./components/FallingLeaves/FallingLeaves";
+import Clouds from "./components/Clouds/Clouds";
 
 const App = () => {
   const location = useLocation();
   const isHomePage = location.pathname === "/";
   return (
     <d>
+      <Clouds />
       <FallingLeaves />
       <Suspense fallback={<Loader />}>
         <Header />

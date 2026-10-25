@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./hero.css";
 import Title from "../../../components/Title/Title";
-// import Clouds from "../../../components/Clouds/Clouds";
+ import Clouds from "../../../components/Clouds/Clouds";
 
 const Hero = () => {
   return (
@@ -25,7 +25,7 @@ const Hero = () => {
               </Link>
             </div>
           </div>
-          {/* <Clouds /> */}
+          <Clouds />
         </div>
       </section>
       <div className="margin-hero"></div>

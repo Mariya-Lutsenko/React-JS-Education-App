@@ -1,13 +1,13 @@
 import React from "react";
 
-// import Clouds from "../Clouds/Clouds";
+import Clouds from "../Clouds/Clouds";
 
 const Back = ({ title }) => {
   return (
     <>
       <section className="back">
         <h1>{title}</h1>
-        {/* <Clouds /> */}
+        <Clouds />
       </section>
       <div className="margin"></div>
     </>
