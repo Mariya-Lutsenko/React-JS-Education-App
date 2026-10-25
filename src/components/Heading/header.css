@@ -25,32 +25,10 @@ header {
   );
   margin: 0 30px;
   position: relative;
-  border: 1px solid rgba(255, 224, 145, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.28);
   box-shadow:
-    0 0 8px rgba(255, 220, 125, 0.3),
-    0 0 20px rgba(80, 190, 235, 0.2),
-    inset 0 0 12px rgba(255, 235, 175, 0.08);
-}
-@media screen and (min-width: 901px) {
-  header::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 2px;
-    background: linear-gradient(
-      90deg,
-      #e6b94b 0%,
-      #fff2b0 20%,
-      #dcb447 40%,
-      #fff5ca 60%,
-      #e5bd54 80%,
-      #fff0a0 100%
-    );
-    box-shadow: 0 0 8px rgba(255, 220, 125, 0.5);
-    pointer-events: none;
-  }
+    0 5px 18px rgba(0, 66, 110, 0.16),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
 }
 .header_nav {
   display: flex;
@@ -79,20 +57,10 @@ header {
 }
 
 .wrapper_link {
-  position: relative;
   display: flex;
   justify-content: space-between;
   padding: 30px 20px;
-  box-sizing: border-box;
-
-  background: linear-gradient(
-    110deg,
-    rgba(255, 240, 190, 0.07),
-    rgba(255, 255, 255, 0.025) 45%,
-    rgba(255, 220, 130, 0.08)
-  );
 }
-
 .start {
   background: linear-gradient(135deg, #39aee0 0%, #6ac1ed 55%, #51afea 100%);
   padding: 30px 70px;
@@ -188,5 +156,20 @@ header {
   }
   .button {
     border: none;
+  }
+}
+@media screen and (min-width: 901px) {
+  .wrapper_link {
+    position: relative;
+    border-bottom: 2px solid transparent;
+    border-image: linear-gradient(
+        90deg,
+        rgba(255, 224, 130, 0.15),
+        #e9bd49,
+        #fff2b0,
+        #e9bd49,
+        rgba(255, 224, 130, 0.15)
+      )
+      1;
   }
 }

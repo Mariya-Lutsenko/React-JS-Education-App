@@ -8,20 +8,97 @@ const palettes = [
   ["#ffed72", "#e9b91d", "#ad7610", "#70480b"],
   ["#ffd7a0", "#e77b36", "#b63d2d", "#76251f"],
 ];
-const leaves = [
-  { type: "maple", left: "7%", delay: "1s", duration: "17s", size: 25 },
-  { type: "oak", left: "24%", delay: "8s", duration: "23s", size: 17 },
-  { type: "maple", left: "43%", delay: "13s", duration: "20s", size: 20 },
-  { type: "oak", left: "61%", delay: "4s", duration: "25s", size: 23 },
-  { type: "maple", left: "78%", delay: "17s", duration: "19s", size: 16 },
-  { type: "oak", left: "93%", delay: "11s", duration: "22s", size: 20 },
-  { type: "maple", left: "34%", delay: "24s", duration: "21s", size: 14 },
-  { type: "oak", left: "70%", delay: "29s", duration: "24s", size: 26 },
+const leaves =[
+  { type: "linden", left: "7%", delay: "1s", duration: "19s", size: 25 },
+  { type: "oak", left: "24%", delay: "8s", duration: "23s", size: 18 },
+  { type: "maple", left: "43%", delay: "13s", duration: "21s", size: 22 },
+  { type: "oval", left: "61%", delay: "4s", duration: "25s", size: 16 },
+  { type: "linden", left: "78%", delay: "17s", duration: "20s", size: 19 },
+  { type: "oak", left: "93%", delay: "11s", duration: "24s", size: 22 },
+  { type: "oval", left: "34%", delay: "24s", duration: "22s", size: 14 },
+  { type: "maple", left: "70%", delay: "29s", duration: "24s", size: 26 },
 ];
 
 function LeafShape({ type, id }) {
   const colors = palettes[id % palettes.length];
   const gradientId = `leaf-gold-${id}`;
+  const veinId = `vein-${id}`;
+
+  const shapes = {
+    // Липа — широкое сердцевидное основание и вытянутый кончик
+    linden: {
+      path: `
+        M32 59
+        C28 54 23 49 18 43
+        L13 44 L15 38
+        L9 35 L13 30
+        L8 26 L15 24
+        L13 18 L20 20
+        L22 13 L28 17
+        L32 7
+        L36 17 L43 13
+        L45 21 L53 19
+        L50 27 L57 30
+        L51 36 L54 42
+        L46 43
+        C41 49 36 55 32 59 Z
+      `,
+      veins: `
+        M32 57 Q31 38 32 9
+        M32 39 Q24 32 14 27
+        M32 32 Q40 26 51 23
+        M32 45 Q40 39 51 35
+        M31 25 L23 19
+      `,
+    },
+
+    // Дуб — округлые лопасти, а не острые лучи
+    oak: {
+      path: `
+        M32 59
+        C29 53 27 49 25 44
+        C18 48 13 44 16 38
+        C8 39 6 32 13 28
+        C7 22 13 17 20 20
+        C19 12 27 10 31 17
+        C35 10 43 13 42 20
+        C50 16 56 22 50 28
+        C58 32 54 39 47 39
+        C51 46 43 49 38 44
+        C36 50 34 55 32 59 Z
+      `,
+      veins: `
+        M32 57 Q32 38 32 16
+        M32 43 L20 38
+        M32 34 L15 28
+        M32 28 L42 20
+        M32 46 L46 39
+        M32 38 L49 29
+      `,
+    },
+
+    // Клён — пять широких лопастей с мягкими кончиками
+    
+    // Овальный лист — простая вытянутая форма
+    oval: {
+      path: `
+        M32 59
+        C26 51 16 39 15 29
+        C14 18 24 10 32 7
+        C41 14 50 23 47 34
+        C44 44 37 53 32 59 Z
+      `,
+      veins: `
+        M32 57 Q32 32 32 9
+        M32 43 L20 31
+        M32 34 L43 23
+        M32 26 L24 17
+        M32 48 L41 39
+      `,
+    },
+  };
+
+  const shape = shapes[type] || shapes.linden;
 
   return (
     <svg
@@ -44,105 +121,44 @@ function LeafShape({ type, id }) {
         </linearGradient>
 
         <linearGradient
-          id={`vein-${id}`}
+          id={veinId}
           x1="0"
           y1="0"
           x2="1"
-          y2="0"
+          y2="1"
         >
-          <stop offset="0%" stopColor="#fff9d6" stopOpacity=".15" />
+          <stop offset="0%" stopColor="#fff9d6" stopOpacity=".35" />
           <stop offset="50%" stopColor="#fff6c4" stopOpacity=".9" />
-          <stop offset="100%" stopColor="#8d5010" stopOpacity=".45" />
+          <stop offset="100%" stopColor="#8d5010" stopOpacity=".5" />
         </linearGradient>
       </defs>
 
-      {type === "maple" ? (
-        <g>
-          <path
-            d="
-              M31 59
-              C28 53 26 49 24 44
-              L12 49 L15 39
-              L5 34 L17 29
-              L10 19 L23 23
-              L24 9 L31 19
-              L37 5 L40 21
-              L53 13 L47 27
-              L59 30 L49 37
-              L53 46 L40 43
-              C37 49 35 54 31 59 Z
-            "
-            fill={`url(#${gradientId})`}
-            stroke={colors[3]}
-            strokeWidth=".8"
-            strokeLinejoin="round"
-          />
+      <path
+        d={shape.path}
+        fill={`url(#${gradientId})`}
+        stroke={colors[3]}
+        strokeWidth=".8"
+        strokeLinejoin="round"
+      />
 
-          <path
-            d="
-              M31 57 Q32 42 37 8
-              M32 44 Q25 36 17 31
-              M34 37 Q42 33 52 30
-              M35 28 L25 22
-              M29 49 L43 43
-            "
-            fill="none"
-            stroke={`url(#vein-${id})`}
-            strokeWidth="1"
-            strokeLinecap="round"
-          />
+      <path
+        d={shape.veins}
+        fill="none"
+        stroke={`url(#${veinId})`}
+        strokeWidth="1"
+        strokeLinecap="round"
+      />
 
-          <path
-            d="M29 21 Q31 15 35 11"
-            fill="none"
-            stroke="#fff9d6"
-            strokeWidth="1.2"
-            strokeLinecap="round"
-            opacity=".8"
-          />
-        </g>
-      ) : (
-        <g>
-          <path
-            d="
-              M32 59
-              C28 54 26 51 24 47
-              C18 49 14 44 17 39
-              C8 39 8 32 14 28
-              C6 23 12 17 19 18
-              C17 10 25 8 30 14
-              C34 6 42 10 42 17
-              C50 13 56 20 50 26
-              C59 29 56 37 48 38
-              C51 44 44 49 39 46
-              C37 51 35 55 32 59 Z
-            "
-            fill={`url(#${gradientId})`}
-            stroke={colors[3]}
-            strokeWidth=".8"
-            strokeLinejoin="round"
-          />
-
-          <path
-            d="
-              M32 57 Q32 37 32 15
-              M32 43 L20 37
-              M32 34 L17 26
-              M32 28 L40 18
-              M32 46 L43 39
-              M32 38 L47 29
-            "
-            fill="none"
-            stroke={`url(#vein-${id})`}
-            strokeWidth="1"
-            strokeLinecap="round"
-          />
-        </g>
-      )}
+      <path
+        d="M32 56 Q34 59 36 61"
+        fill="none"
+        stroke={colors[3]}
+        strokeWidth="1.2"
+        strokeLinecap="round"
+      />
     </svg>
   );
 }
-
 export default function FallingLeaves() {
   return (
     <div className="falling-leaves" aria-hidden="true">
