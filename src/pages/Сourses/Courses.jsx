@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import Dropdown from "../../components/Dropdown/Dropdown";
 import TableCourses from "../../components/TableCourses/TableCourses";
 import TableConference from "../../components/TableConference/TableConference";
@@ -8,7 +8,7 @@ import "./courses.css";
 const Courses = () => {
   const [selectedClass, setSelectedClass] = useState("");
   const [coursesData, setCoursesData] = useState(null);
-  const tableRef = useRef(null);
+ 
 
   const handleDropdownChange = (selectedValue) => {
     setSelectedClass(selectedValue);
@@ -33,11 +33,7 @@ const Courses = () => {
     fetchCoursesData();
   }, []);
 
-  useEffect(() => {
-    if (tableRef.current && selectedClass) {
-      tableRef.current.scrollIntoView({ behavior: "smooth" });
-    }
-  }, [selectedClass]);
+  
 
   return (
     <>
@@ -63,7 +59,6 @@ const Courses = () => {
             data={coursesData || []}
           />
           <TableCourses
-            tableRef={tableRef}
             selectedClass={selectedClass}
             data={coursesData || []}
           />

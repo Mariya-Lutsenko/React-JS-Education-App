@@ -19,7 +19,6 @@ const TableCourses = ({ data, selectedClass, tableRef }) => {
       <thead>
         <tr>
           <th className="tableCourses_head">Назва предмету</th>
-          <th className="tableCourses_head">Код предмету <br/>на Google <br/> Classroom</th>
           <th className="tableCourses_head">Вчитель</th>
           <th className="tableCourses_head">Email</th>
         </tr>
@@ -28,7 +27,6 @@ const TableCourses = ({ data, selectedClass, tableRef }) => {
         {filteredData.subjects.map((subject) => (
           <tr className="tableCourses_tr" key={subject.name}>
             <td className="tableCourses_td">{subject.name}</td>
-            <td className="tableCourses_td">{subject.code}</td>
             <td className="tableCourses_td">{subject.teacher}</td>
             <td className="tableCourses_td email-cell">{subject.email}</td>
           </tr>
