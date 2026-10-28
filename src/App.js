@@ -6,8 +6,9 @@ import Header from "./components/Heading/Header";
 import UserRoutes from "./UserRoutes";
 import Footer from "./components/Footer/Footer";
 import Loader from "./components/Loader/Loader";
-import FallingLeaves from "./components/FallingLeaves/FallingLeaves";
+// import FallingLeaves from "./components/FallingLeaves/FallingLeaves";
 import Clouds from "./components/Clouds/Clouds";
+import { SeasonalFX } from "seasonalfx/react";
 
 const App = () => {
   const location = useLocation();
@@ -15,7 +16,8 @@ const App = () => {
   return (
     <d>
       <Clouds />
-      <FallingLeaves />
+      <SeasonalFX season="autumn" intensity="subtle" />
+      <SeasonalFX />
       <Suspense fallback={<Loader />}>
         <Header />
         <UserRoutes />
