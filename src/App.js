@@ -17,7 +17,7 @@ const App = () => {
     <d>
       <Clouds />
       <SeasonalFX season="autumn" intensity="subtle" />
-      <SeasonalFX />
+
       <Suspense fallback={<Loader />}>
         <Header />
         <UserRoutes />
